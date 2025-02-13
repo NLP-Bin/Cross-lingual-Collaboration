@@ -1,0 +1,30 @@
+
+进程结束，执行至第 199 条,
+ 内容是
+ {'id': '6294', 'content': "GST isn't a disappointment for market: Gaurav Mehta, Ambit Capital", 'input': "GST isn't a disappointment for market: Gaurav Mehta, Ambit Capital", 'output': '{"value": "Ambit Capital", "start": 53, "end": 66, "tag": "neutral"}', 'annotations': [{'value': 'Ambit Capital', 'start': 53, 'end': 66, 'tag': 'neutral'}], 'instruction': ''} 
+
+
+annotations Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.3818    0.3182    0.3471        66
+     neutral     0.2693    0.7500    0.3964       116
+    positive     0.3750    0.0303    0.0561        99
+
+   micro avg     0.2876    0.3950    0.3328       281
+   macro avg     0.3421    0.3662    0.2665       281
+weighted avg     0.3330    0.3950    0.2649       281
+
+
+annotations_answer1 Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.4706    0.1212    0.1928        66
+     neutral     0.2979    0.7241    0.4221       116
+    positive     0.0000    0.0000    0.0000        99
+
+   micro avg     0.3077    0.3274    0.3172       281
+   macro avg     0.2562    0.2818    0.2050       281
+weighted avg     0.2335    0.3274    0.2195       281
+
+
