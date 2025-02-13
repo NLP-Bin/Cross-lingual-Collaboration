@@ -1,0 +1,30 @@
+
+进程结束，执行至第 79 条,
+ 内容是
+ {'id': '5141', 'content': 'Takata shares sink by a quarter, Mitsubishi says reconsidering inflators', 'input': 'Takata shares sink by a quarter, Mitsubishi says reconsidering inflators', 'output': '{"value": "Takata shares", "start": 0, "end": 13, "tag": "negative"}\n{"value": "Mitsubishi", "start": 33, "end": 43, "tag": "neutral"}', 'annotations': [{'value': 'Takata shares', 'start': 0, 'end': 13, 'tag': 'negative'}, {'value': 'Mitsubishi', 'start': 33, 'end': 43, 'tag': 'neutral'}], 'instruction': ''} 
+
+
+annotations Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.7143    0.3846    0.5000        39
+     neutral     0.5000    0.6190    0.5532        42
+    positive     0.8077    0.6364    0.7119        33
+
+   micro avg     0.6263    0.5439    0.5822       114
+   macro avg     0.6740    0.5467    0.5884       114
+weighted avg     0.6624    0.5439    0.5809       114
+
+
+annotations_answer1 Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.6875    0.2821    0.4000        39
+     neutral     0.5510    0.6429    0.5934        42
+    positive     0.8889    0.4848    0.6275        33
+
+   micro avg     0.6506    0.4737    0.5482       114
+   macro avg     0.7091    0.4699    0.5403       114
+weighted avg     0.6955    0.4737    0.5371       114
+
+

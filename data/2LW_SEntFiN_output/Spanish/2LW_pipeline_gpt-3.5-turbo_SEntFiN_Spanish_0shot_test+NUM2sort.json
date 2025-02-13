@@ -1,0 +1,78 @@
+[
+  {
+    "content": "Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "truth_annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      },
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Texto original: La aclaración de Castex impulsa las acciones de Amtek Auto, termina un 6% más alto.",
+    "translation_answer2": "{\"value\": \"Castex\", \"start\": 26, \"end\": 32, \"tag\": \"neutral\"}\n{\"value\": \"Amtek Auto\", \"start\": 42, \"end\": 52, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Won't get a 2008-like opportunity where everything was so cheap: Nilesh Shah, Axis Capital",
+    "truth_annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "No obtendremos una oportunidad similar a la de 2008 donde todo era tan barato: Nilesh Shah, Axis Capital.",
+    "translation_answer2": "{\"value\": \"Axis Capital\", \"start\": 78, \"end\": 89, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ]
+  }
+]

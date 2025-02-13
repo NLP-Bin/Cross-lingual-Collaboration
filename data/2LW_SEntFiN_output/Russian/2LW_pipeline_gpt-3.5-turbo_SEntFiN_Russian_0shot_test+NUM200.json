@@ -1,0 +1,648 @@
+[
+  {
+    "content": "Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "truth_annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      },
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Castex",
+        "start": 6,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "TEXT: Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "translation_answer2": "{\"value\": \"Castex\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}\n{\"value\": \"Amtek Auto\", \"start\": 23, \"end\": 33, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 23,
+        "end": 33,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Won't get a 2008-like opportunity where everything was so cheap: Nilesh Shah, Axis Capital",
+    "truth_annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Capital",
+        "start": 71,
+        "end": 82,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "Не получите возможности, подобной 2008 году, когда всё было так дешево: Нилеш Шах, Axis Capital",
+    "translation_answer2": "{\"value\": \"Axis Capital\", \"start\": 74, \"end\": 85, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 71,
+        "end": 82,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Why tech stocks are trending again",
+    "truth_annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "tech stocks",
+        "start": 5,
+        "end": 15,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Friendly buying' lifts FCS Soft on acquisition buzz",
+    "truth_annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "FCS Soft",
+        "start": 33,
+        "end": 41,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "TEXT: \"Дружелюбные покупки\" поднимают FCS Soft на фоне слухов о поглощении",
+    "translation_answer2": "{}",
+    "annotations": [
+      {}
+    ]
+  },
+  {
+    "content": "China, Hong Kong stocks rise, banks surge on local govt debt scheme",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 22,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "Текст: Китай, Гонконгские акции растут, банки растут на местной схеме долгов государственных предприятий.",
+    "translation_answer2": "{\n    \"value\": \"Китай\",\n    \"start\": 8,\n    \"end\": 25,\n    \"tag\": \"positive\"\n}\n{\n    \"value\": \"Гонконгские акции\",\n    \"start\": 27,\n    \"end\": 45,\n    \"tag\": \"positive\"\n}\n{\n    \"value\": \"банки\",\n    \"start\": 47,\n    \"end\": 54,\n    \"tag\": \"positive\"\n}",
+    "annotations": []
+  },
+  {
+    "content": "Rs 15.26 crore dividend cheque from REPCO Bank",
+    "truth_annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "REPCO Bank",
+        "start": 40,
+        "end": 50,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "Перевод: Чек на дивиденды в размере 15,26 миллиона рупий от банка REPCO.",
+    "translation_answer2": "{\"value\": \"REPCO\", \"start\": 59, \"end\": 64, \"tag\": \"neutral\"}\n{\"value\": \"дивиденды\", \"start\": 33, \"end\": 42, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "REPCO",
+        "start": 40,
+        "end": 45,
+        "tag": "neutral"
+      },
+      {
+        "value": "dividends",
+        "start": 23,
+        "end": 32,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Legal tussle forces Sebi to re-think decision on self-regulation",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 29,
+        "end": 33,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "Правовой спор заставляет SEBI пересмотреть решение о саморегулировании",
+    "translation_answer2": "{\"value\": \"SEBI\", \"start\": 42, \"end\": 46, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 29,
+        "end": 33,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sensex falls in-line with emerging markets; feels selling pressure",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      },
+      {
+        "value": "emerging markets",
+        "start": 29,
+        "end": 45,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Southeast Asian markets rise on Greek debt deal; Thai benchmark recovers two-week low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "Greek debt deal",
+        "start": 34,
+        "end": 48,
+        "tag": "positive"
+      },
+      {
+        "value": "Thai benchmark",
+        "start": 60,
+        "end": 74,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "Юго-восточноазиатские рынки растут на фоне сделки по греческим долгам; Тайский референсный индекс восстанавливается после двухнедельного минимума.",
+    "translation_answer2": "{\"value\": \"Юго-восточноазиатские рынки\", \"start\": 0, \"end\": 24, \"tag\": \"positive\"}\n{\"value\": \"греческие долги\", \"start\": 45, \"end\": 59, \"tag\": \"positive\"}\n{\"value\": \"Тайский референсный индекс\", \"start\": 72, \"end\": 98, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "Greek debt deal",
+        "start": 34,
+        "end": 48,
+        "tag": "positive"
+      },
+      {
+        "value": "Thai benchmark",
+        "start": 60,
+        "end": 74,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Indo Count top bet in textile sector: Vinay Khattar, Edelweiss Financial",
+    "truth_annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "Vinay Khattar",
+        "start": 40,
+        "end": 53,
+        "tag": "neutral"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 55,
+        "end": 73,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Текст: Indo Count в топе ставок в текстильном секторе: Винай Кхаттар, Edelweiss Financial",
+    "translation_answer2": "{\"value\": \"Indo Count\", \"start\": 0, \"end\": 9, \"tag\": \"positive\"}\n{\"value\": \"Vinay Khattar\", \"start\": 40, \"end\": 53, \"tag\": \"neutral\"}\n{\"value\": \"Edelweiss Financial\", \"start\": 55, \"end\": 73, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "Vinay Khattar",
+        "start": 35,
+        "end": 47,
+        "tag": "neutral"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 49,
+        "end": 67,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Franklin Templeton buys record Rs 16,000-crore government securities in a day",
+    "truth_annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "government securities",
+        "start": 43,
+        "end": 64,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Franklin Templeton покупает рекордные Rs 16,000-крор государственные ценные бумаги за день",
+    "translation_answer2": "{\"value\": \"Franklin Templeton\", \"start\": 0, \"end\": 18, \"tag\": \"neutral\"}\n{\"value\": \"государственные ценные бумаги\", \"start\": 54, \"end\": 76, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "government securities",
+        "start": 43,
+        "end": 64,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "IndiGo set to launch Rs 2,500-crore initial public offering",
+    "truth_annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "TEXT: IndiGo set to launch Rs 2,500-crore initial public offering",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Q4 earnings: RIL's profit jumps up 32 pc on rising refining income",
+    "truth_annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "RIL",
+        "start": 14,
+        "end": 17,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "Q4 прибыль: прибыль RIL выросла на 32% за счет увеличения доходов от переработки",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "RIL",
+        "start": 14,
+        "end": 17,
+        "tag": "positive"
+      },
+      {
+        "value": "refining income",
+        "start": 51,
+        "end": 65,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "High Court appointed committee can seek information on NSEL hit investors:  Bombay HC",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 48,
+        "end": 52,
+        "tag": "negative"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 74,
+        "end": 83,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Перевод:",
+    "translation_answer2": "{\"value\": \"Высший суд\", \"start\": 0, \"end\": 9, \"tag\": \"neutral\"}\n{\"value\": \"NSEL\", \"start\": 48, \"end\": 52, \"tag\": \"negative\"}\n{\"value\": \"Бомбейский высший суд\", \"start\": 74, \"end\": 88, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 48,
+        "end": 52,
+        "tag": "negative"
+      },
+      {
+        "value": "Bombay High Court",
+        "start": 74,
+        "end": 91,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "GSFC Q3 profit dips 26% on sluggish sales",
+    "truth_annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      },
+      {
+        "value": "Equinomics",
+        "start": 82,
+        "end": 92,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Текст: Прибыль GSFC за третий квартал снизилась на 26% из-за слабых продаж",
+    "translation_answer2": "{\"value\": \"GSFC\", \"start\": 20, \"end\": 24, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "L&T Finance case: Factorial says will cooperate with Sebi",
+    "truth_annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Factorial",
+        "start": 17,
+        "end": 25,
+        "tag": "positive"
+      },
+      {
+        "value": "Sebi",
+        "start": 50,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "L&T Finance случай: Factorial говорит, что будет сотрудничать с Sebi",
+    "translation_answer2": "{\"value\": \"L&T Finance\", \"start\": 0, \"end\": 11, \"tag\": \"neutral\"}\n{\"value\": \"Factorial\", \"start\": 18, \"end\": 26, \"tag\": \"positive\"}\n{\"value\": \"Sebi\", \"start\": 56, \"end\": 60, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Factorial",
+        "start": 17,
+        "end": 25,
+        "tag": "positive"
+      },
+      {
+        "value": "Sebi",
+        "start": 50,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Goa Carbon Ltd posts Rs 670.89 lakh net loss in Q1",
+    "truth_annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": []
+  }
+]

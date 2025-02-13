@@ -1,0 +1,30 @@
+
+进程结束，执行至第 38 条,
+ 内容是
+ {'id': '3973', 'content': 'GMR Group plans to sell stake in Karur Vysya Bank', 'input': 'GMR Group plans to sell stake in Karur Vysya Bank', 'output': '{"value": "Karur Vysya Bank", "start": 33, "end": 49, "tag": "negative"}\n{"value": "GMR Group", "start": 0, "end": 9, "tag": "neutral"}', 'annotations': [{'value': 'Karur Vysya Bank', 'start': 33, 'end': 49, 'tag': 'negative'}, {'value': 'GMR Group', 'start': 0, 'end': 9, 'tag': 'neutral'}], 'instruction': ''} 
+
+
+annotations Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.7500    0.3000    0.4286        10
+     neutral     0.3333    0.1364    0.1935        22
+    positive     0.6000    0.4000    0.4800        15
+
+   micro avg     0.5217    0.2553    0.3429        47
+   macro avg     0.5611    0.2788    0.3674        47
+weighted avg     0.5071    0.2553    0.3350        47
+
+
+annotations_answer1 Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.5000    0.7000    0.5833        10
+     neutral     0.4444    0.7273    0.5517        22
+    positive     0.6000    0.6000    0.6000        15
+
+   micro avg     0.4923    0.6809    0.5714        47
+   macro avg     0.5148    0.6758    0.5784        47
+weighted avg     0.5059    0.6809    0.5739        47
+
+

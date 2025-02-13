@@ -1,0 +1,696 @@
+[
+  {
+    "content": "Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "truth_annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      },
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Castex",
+        "tag": "positive"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "value": "Amtek Auto",
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "Castex澄清使安泰克汽车的股价上涨，收盘上涨6%",
+    "translation_answer2": "{\"start\": 0, \"end\": 6, \"value\": \"Castex\", \"tag\": \"positive\"}\n\n{\"start\": 11, \"end\": 17, \"value\": \"安泰克汽车\", \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Castex",
+        "tag": "positive"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "value": "Amtek Auto",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Won't get a 2008-like opportunity where everything was so cheap: Nilesh Shah, Axis Capital",
+    "truth_annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 78,
+        "end": 90,
+        "value": "Axis Capital",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "不会像2008年那样所有东西都如此便宜的机会：尼莱什·沙阿，Axis资本",
+    "translation_answer2": "{\"start\": 25, \"end\": 34, \"value\": \"Axis资本\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 78,
+        "end": 90,
+        "value": "Axis Capital",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Why tech stocks are trending again",
+    "truth_annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "tech",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "为什么科技股再次流行",
+    "translation_answer2": "{\"start\": 2, \"end\": 6, \"value\": \"科技股\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 15,
+        "value": "tech stocks",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Friendly buying' lifts FCS Soft on acquisition buzz",
+    "truth_annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 23,
+        "end": 31,
+        "value": "FCS Soft",
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "市场传闻称FCS软体公司可能被收购，导致其股票价格上扬。",
+    "translation_answer2": "{\"start\": 8, \"end\": 14, \"value\": \"FCS软体公司\", \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 31,
+        "value": "FCS Soft",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "China, Hong Kong stocks rise, banks surge on local govt debt scheme",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 30,
+        "end": 35,
+        "value": "banks",
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "中国、香港股市上涨，银行因地方政府债务计划而大涨。",
+    "translation_answer2": "{\"start\": 13, \"end\": 15, \"value\": \"银行\", \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "start": 30,
+        "end": 35,
+        "value": "banks",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Rs 15.26 crore dividend cheque from REPCO Bank",
+    "truth_annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 36,
+        "end": 46,
+        "value": "REPCO Bank",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "从REPCO银行收到15.26亿卢比的股息支票",
+    "translation_answer2": "{\"start\": 3, \"end\": 14, \"value\": \"REPCO银行\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 36,
+        "end": 46,
+        "value": "REPCO Bank",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Legal tussle forces Sebi to re-think decision on self-regulation",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 20,
+        "end": 24,
+        "value": "Sebi",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "法律纠纷迫使Sebi重新考虑自我监管的决定。",
+    "translation_answer2": "{\"start\": 6, \"end\": 10, \"value\": \"Sebi\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 20,
+        "end": 24,
+        "value": "Sebi",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sensex falls in-line with emerging markets; feels selling pressure",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Sensex",
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "印度BSE Sensex指数与新兴市场同步下跌，感受到卖压。",
+    "translation_answer2": "{\"start\": 2, \"end\": 15, \"value\": \"BSE Sensex指数\", \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Sensex",
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Southeast Asian markets rise on Greek debt deal; Thai benchmark recovers two-week low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 32,
+        "end": 37,
+        "value": "Greek",
+        "tag": "neutral"
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "value": "Thai",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "东南亚市场因希腊债务协议上涨；泰国基准从两周低点回升",
+    "translation_answer2": "{\"start\": 9, \"end\": 11, \"value\": \"希腊\", \"tag\": \"neutral\"}\n\n{\"start\": 18, \"end\": 20, \"value\": \"泰国\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 32,
+        "end": 37,
+        "value": "Greek",
+        "tag": "neutral"
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "value": "Thai",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Indo Count top bet in textile sector: Vinay Khattar, Edelweiss Financial",
+    "truth_annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 53,
+        "end": 72,
+        "value": "Edelweiss Financial",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印度科尔为纺织行业的首选：Vinay Khattar，爱德曼金融",
+    "translation_answer2": "{\"start\": 27, \"end\": 36, \"value\": \"爱德曼金融\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Indo Count",
+        "tag": "positive"
+      },
+      {
+        "start": 53,
+        "end": 72,
+        "value": "Edelweiss Financial",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Franklin Templeton buys record Rs 16,000-crore government securities in a day",
+    "truth_annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "Franklin Templeton",
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "富兰克林邓普顿一天购买创纪录的1600亿卢比政府证券",
+    "translation_answer2": "{\"start\": 0, \"end\": 8, \"value\": \"富兰克林邓普顿\", \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "Franklin Templeton",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "IndiGo set to launch Rs 2,500-crore initial public offering",
+    "truth_annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "IndiGo",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印地高航空计划推出价值250亿卢比的首次公开募股",
+    "translation_answer2": "{\"start\": 0, \"end\": 5, \"value\": \"印地高航空\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "IndiGo",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Q4 earnings: RIL's profit jumps up 32 pc on rising refining income",
+    "truth_annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 13,
+        "end": 16,
+        "value": "RIL",
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "第四季度收益：RIL 的利润因炼油收入增加而增长了32%",
+    "translation_answer2": "{\"start\": 10, \"end\": 13, \"value\": \"RIL\", \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "start": 13,
+        "end": 16,
+        "value": "RIL",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "High Court appointed committee can seek information on NSEL hit investors:  Bombay HC",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 55,
+        "end": 59,
+        "value": "NSEL",
+        "tag": "neutral"
+      },
+      {
+        "start": 76,
+        "end": 85,
+        "value": "Bombay HC",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "孟买高等法院任命的委员会可以向国家现货交易所受损投资者寻求信息。",
+    "translation_answer2": "{\"start\": 25, \"end\": 33, \"value\": \"孟买高等法院\", \"tag\": \"neutral\"}\n\n{\"start\": 37, \"end\": 43, \"value\": \"国家现货交易所\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 55,
+        "end": 59,
+        "value": "NSEL",
+        "tag": "negative"
+      },
+      {
+        "start": 76,
+        "end": 85,
+        "value": "Bombay HC",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "GSFC Q3 profit dips 26% on sluggish sales",
+    "truth_annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "GSFC",
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "GSFC 第三季度利润因销售疲软下滑26％。",
+    "translation_answer2": "```json\n{\"start\":0, \"end\":4, \"value\":\"GSFC\", \"tag\":\"negative\"}\n```",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "GSFC",
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "L&T Finance case: Factorial says will cooperate with Sebi",
+    "truth_annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "L&T Finance",
+        "tag": "neutral"
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "value": "Factorial",
+        "tag": "neutral"
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "value": "Sebi",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "L&T财务案：Factorial表示愿意与Sebi合作",
+    "translation_answer2": "{\"start\": 0, \"end\": 8, \"value\": \"L&T财务\", \"tag\": \"neutral\"}\n\n{\"start\": 11, \"end\": 20, \"value\": \"Factorial\", \"tag\": \"positive\"}\n\n{\"start\": 25, \"end\": 29, \"value\": \"Sebi\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "L&T Finance",
+        "tag": "neutral"
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "value": "Factorial",
+        "tag": "positive"
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "value": "Sebi",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Goa Carbon Ltd posts Rs 670.89 lakh net loss in Q1",
+    "truth_annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "Goa Carbon Ltd",
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "果阿碳素有限公司在第一季度报告亏损670.89万卢比",
+    "translation_answer2": "{\"start\": 0, \"end\": 8, \"value\": \"果阿碳素有限公司\", \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "Goa Carbon Ltd",
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Wockhardt story is really intriguing: Deven Choksey",
+    "truth_annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Wockhardt",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "沃克哈特的故事真的很有趣：德文·乔克西",
+    "translation_answer2": "```\n{\"start\": 0, \"end\": 4, \"value\": \"沃克哈特\", \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Wockhardt",
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Sebi ask cos to follow std format for auditor certificates",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "Sebi",
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印度证券交易委员会（Sebi）要求公司遵循标准格式的审计师证书",
+    "translation_answer2": "{\"start\": 0, \"end\": 10, \"value\": \"印度证券交易委员会\", \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "Sebi",
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Nestle falls as government sues company over Maggi row; seeks Rs 640 crore in damages",
+    "truth_annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Nestle",
+        "tag": "negative"
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "value": "Maggi",
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "雀巢因马吉事件被政府起诉而下跌；索赔6.4亿卢比",
+    "translation_answer2": "{\"start\": 0, \"end\": 2, \"value\": \"雀巢\", \"tag\": \"negative\"} \n\n{\"start\": 4, \"end\": 6, \"value\": \"马吉\", \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Nestle",
+        "tag": "negative"
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "value": "Maggi",
+        "tag": "negative"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+
+进程结束，执行至第 24 条,
+ 内容是
+ {'id': '7794', 'content': 'Eros is planning to delist its Indian subsidiary? Stock surges', 'input': 'Eros is planning to delist its Indian subsidiary? Stock surges', 'output': '{"value": "Eros", "start": 0, "end": 4, "tag": "positive"}', 'annotations': [{'value': 'Eros', 'start': 0, 'end': 4, 'tag': 'positive'}], 'instruction': ''} 
+
+
+annotations Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.3846    0.7143    0.5000         7
+     neutral     0.3000    0.2143    0.2500        14
+    positive     0.4615    0.6000    0.5217        10
+
+   micro avg     0.3889    0.4516    0.4179        31
+   macro avg     0.3821    0.5095    0.4239        31
+weighted avg     0.3712    0.4516    0.3941        31
+
+
+annotations_answer1 Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.4444    0.5714    0.5000         7
+     neutral     0.4500    0.6429    0.5294        14
+    positive     0.6923    0.9000    0.7826        10
+
+   micro avg     0.5238    0.7097    0.6027        31
+   macro avg     0.5289    0.7048    0.6040        31
+weighted avg     0.5269    0.7097    0.6044        31
+
+

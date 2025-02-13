@@ -1,0 +1,993 @@
+[
+  {
+    "content": "Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "truth_annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      },
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "توضيح Castex يرفع أسهم Amtek Auto، وينهي 6% أعلى",
+    "translation_answer2": "{\"value\": \"Castex\", \"start\": 9, \"end\": 15, \"tag\": \"positive\"}\n{\"value\": \"Amtek Auto\", \"start\": 25, \"end\": 35, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Won't get a 2008-like opportunity where everything was so cheap: Nilesh Shah, Axis Capital",
+    "truth_annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Why tech stocks are trending again",
+    "truth_annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "TEXT: لماذا الأسهم التكنولوجية تعود إلى الصدارة مرة أخرى",
+    "translation_answer2": "{\"value\": \"الأسهم التكنولوجية\", \"start\": 14, \"end\": 27, \"tag\": \"positive\", \"sentiment\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "positive",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Friendly buying' lifts FCS Soft on acquisition buzz",
+    "truth_annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "China, Hong Kong stocks rise, banks surge on local govt debt scheme",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "الصين، ارتفاع الأسهم في هونغ كونغ، ويتجاوز البنوك على مستوى حكومة محلية لديونها",
+    "translation_answer2": "{\"value\": \"الصين\", \"start\": 0, \"end\": 4, \"tag\": \"positive\"}\n{\"value\": \"هونغ كونغ\", \"start\": 14, \"end\": 22, \"tag\": \"positive\"}\n{\"value\": \"البنوك\", \"start\": 42, \"end\": 46, \"tag\": \"positive\"}\n{\"value\": \"حكومة محلية\", \"start\": 58, \"end\": 68, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong",
+        "start": 7,
+        "end": 16,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      },
+      {
+        "value": "local government",
+        "start": -1,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Rs 15.26 crore dividend cheque from REPCO Bank",
+    "truth_annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Legal tussle forces Sebi to re-think decision on self-regulation",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "negative"
+      },
+      {
+        "value": "Equinomics",
+        "start": -1,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Text: صراع قانوني يجبر الهيئة العامة للأوراق المالية والبورصات على إعادة التفكير في قرارها بشأن التنظيم الذاتي",
+    "translation_answer2": "{\"value\": \"الهيئة العامة للأوراق المالية والبورصات\", \"start\": 35, \"end\": 69, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "negative"
+      },
+      {
+        "value": "Sebi",
+        "start": -1,
+        "end": 3,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Sensex falls in-line with emerging markets; feels selling pressure",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "emerging markets",
+        "start": 26,
+        "end": 42,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "يتراجع مؤشر Sensex مع أسواق ناشئة؛ يشعر بضغط البيع",
+    "translation_answer2": "{\"value\": \"Sensex\", \"start\": 10, \"end\": 15, \"tag\": \"negative\"}\n{\"value\": \"emerging markets\", \"start\": 24, \"end\": 41, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "emerging markets",
+        "start": 26,
+        "end": 42,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Southeast Asian markets rise on Greek debt deal; Thai benchmark recovers two-week low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "Greek debt deal",
+        "start": 32,
+        "end": 47,
+        "tag": "positive"
+      },
+      {
+        "value": "Thai benchmark",
+        "start": 49,
+        "end": 63,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "الأسواق الآسيوية الجنوبية ترتفع على صفقة الدين اليوناني. يتعافى المعيار التايلندي من أدنى مستوى لمدة أسبوعين.",
+    "translation_answer2": "No relevant entities were identified for sentiment analysis in the translated text.",
+    "annotations": [
+      {
+        "value": "South Asian markets",
+        "start": -1,
+        "end": 18,
+        "tag": "positive"
+      },
+      {
+        "value": "Greek debt deal",
+        "start": 32,
+        "end": 47,
+        "tag": "positive"
+      },
+      {
+        "value": "Thai benchmark",
+        "start": 49,
+        "end": 63,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Indo Count top bet in textile sector: Vinay Khattar, Edelweiss Financial",
+    "truth_annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Vinay Khattar",
+        "start": 38,
+        "end": 51,
+        "tag": "neutral"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "الهند العدد العلوي المراهنة في قطاع النسيج: فيناي خطار ، إيدلوايس فنانسيال",
+    "translation_answer2": "{\"value\": \"الهند\", \"start\": 0, \"end\": 4, \"tag\": \"positive\"}\n{\"value\": \"فيناي خطار\", \"start\": 40, \"end\": 49, \"tag\": \"neutral\"}\n{\"value\": \"إيدلوايس فنانسيال\", \"start\": 51, \"end\": 68, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Vinay Khattar",
+        "start": 38,
+        "end": 51,
+        "tag": "neutral"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Franklin Templeton buys record Rs 16,000-crore government securities in a day",
+    "truth_annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "government securities",
+        "start": 47,
+        "end": 68,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "فرانكلين تمبلتون تشتري سندات حكومية بقيمة قياسية تصل إلى 16,000 مليون روبية في يوم واحد",
+    "translation_answer2": "{\"value\": \"Franklin Templeton\", \"start\": 0, \"end\": 17, \"tag\": \"neutral\"}\n{\"value\": \"سندات حكومية\", \"start\": 28, \"end\": 39, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "government securities",
+        "start": 47,
+        "end": 68,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "IndiGo set to launch Rs 2,500-crore initial public offering",
+    "truth_annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Equinomics",
+        "start": -1,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "IndiGo مستعدة لإطلاق طرح عام أولي بقيمة 2،500 كرو",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Q4 earnings: RIL's profit jumps up 32 pc on rising refining income",
+    "truth_annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "أرباح الربع الرابع: صافي الربح لدي RIL يرتفع 32٪ على ارتفاع إيرادات التكرير",
+    "translation_answer2": "{\"value\": \"RIL\", \"start\": 43, \"end\": 46, \"tag\": \"positive\"}\n{\"value\": \"refining income\", \"start\": 63, \"end\": 77, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      },
+      {
+        "value": "refining income",
+        "start": 51,
+        "end": 66,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "High Court appointed committee can seek information on NSEL hit investors:  Bombay HC",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "negative"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "TEXT: High Court appointed committee can seek information on NSEL hit investors: Bombay HC\nتم تعيين لجنة من المحكمة العليا يمكنها البحث عن معلومات حول المستثمرين الذين تضرروا بسبب NSEL: محكمة بومباي",
+    "translation_answer2": "{\"value\": \"High Court\", \"start\": 11, \"end\": 21, \"tag\": \"neutral\"}\n{\"value\": \"NSEL\", \"start\": 58, \"end\": 62, \"tag\": \"negative\"}\n{\"value\": \"Bombay HC\", \"start\": 92, \"end\": 104, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "negative"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "GSFC Q3 profit dips 26% on sluggish sales",
+    "truth_annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "TEXT: انخفضت أرباح GSFC للربع الثالث بنسبة 26٪ بسبب تراجع المبيعات.",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "L&T Finance case: Factorial says will cooperate with Sebi",
+    "truth_annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "L&T Finance case: العوامل تقول انها ستتعاون مع الهيئة الهندية للرقابة على القيم المالية",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Goa Carbon Ltd posts Rs 670.89 lakh net loss in Q1",
+    "truth_annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "تعرضت Goa Carbon Ltd لخسارة صافية قدرها 670.89 لاك روبية في الربع الأول",
+    "translation_answer2": "{\"value\": \"Goa Carbon Ltd\", \"start\": 8, \"end\": 22, \"tag\": \"negative\"}\n{\"value\": \"خسارة\", \"start\": 23, \"end\": 27, \"tag\": \"negative\"}\n{\"value\": \"670.89 لاك روبية\", \"start\": 33, \"end\": 49, \"tag\": \"negative\"}\n{\"value\": \"الربع الأول\", \"start\": 53, \"end\": 60, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      },
+      {
+        "value": "net loss",
+        "start": 36,
+        "end": 44,
+        "tag": "negative"
+      },
+      {
+        "value": "670.89 lakh",
+        "start": 24,
+        "end": 35,
+        "tag": "negative"
+      },
+      {
+        "value": "Q1",
+        "start": 48,
+        "end": 50,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Wockhardt story is really intriguing: Deven Choksey",
+    "truth_annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Deven Choksey",
+        "start": 38,
+        "end": 51,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "نص النص أبدى قلقًا حول تأقلم واقتصاديات تأثيرات فيروس كورونا، ومضى قدمًا لاستعراض تجربة جيدة ومشجعة لديهم.",
+    "translation_answer2": "{\"value\": \"فيروس كورونا\", \"start\": 79, \"end\": 89, \"tag\": \"negative\"}\n{\"value\": \"تأقلم\", \"start\": 35, \"end\": 40, \"tag\": \"negative\"}\n{\"value\": \"تجربة جيدة\", \"start\": 103, \"end\": 112, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "coronavirus",
+        "start": -1,
+        "end": 10,
+        "tag": "negative"
+      },
+      {
+        "value": "adaptation",
+        "start": -1,
+        "end": 9,
+        "tag": "negative"
+      },
+      {
+        "value": "good experience",
+        "start": -1,
+        "end": 14,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Sebi ask cos to follow std format for auditor certificates",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "cos",
+        "start": 9,
+        "end": 12,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "نصحت الهيئة الهندية لسوق رأس المال الشركات باتباع تنسيق موحد لشهادات المراجعة.",
+    "translation_answer2": "{\"value\": \"الهيئة الهندية لسوق رأس المال\", \"start\": 0, \"end\": 27, \"tag\": \"neutral\"}\n{\"value\": \"شهادات المراجعة\", \"start\": 81, \"end\": 91, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Securities and Exchange Board of India",
+        "start": -1,
+        "end": 37,
+        "tag": "neutral"
+      },
+      {
+        "value": "companies",
+        "start": -1,
+        "end": 8,
+        "tag": "neutral"
+      },
+      {
+        "value": "standard format",
+        "start": -1,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "auditor certificates",
+        "start": 38,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Nestle falls as government sues company over Maggi row; seeks Rs 640 crore in damages",
+    "truth_annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "government",
+        "start": 16,
+        "end": 26,
+        "tag": "neutral"
+      },
+      {
+        "value": "Maggi",
+        "start": 45,
+        "end": 50,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "نستل تتراجع مع مقاضاة الحكومة للشركة بسبب قضية الماجي؛ تطلب 640 مليون روبية تعويضًا",
+    "translation_answer2": "{\"value\": \"نستل\", \"start\": 0, \"end\": 4, \"tag\": \"negative\"}\n{\"value\": \"حكومة\", \"start\": 13, \"end\": 17, \"tag\": \"neutral\"}\n{\"value\": \"الماجي\", \"start\": 52, \"end\": 58, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "government",
+        "start": 16,
+        "end": 26,
+        "tag": "neutral"
+      },
+      {
+        "value": "Maggi",
+        "start": 45,
+        "end": 50,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "China shares recoup losses on power producers, carmakers",
+    "truth_annotations": [
+      {
+        "value": "China shares",
+        "start": 0,
+        "end": 12,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      },
+      {
+        "value": "power producers",
+        "start": 30,
+        "end": 45,
+        "tag": "neutral"
+      },
+      {
+        "value": "carmakers",
+        "start": 47,
+        "end": 56,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "تعويض الأسهم الصينية على منتجي الطاقة وشركات تصنيع السيارات",
+    "translation_answer2": "{\"value\": \"الأسهم\", \"start\": 14, \"end\": 19, \"tag\": \"neutral\"}\n{\"value\": \"منتجي الطاقة\", \"start\": 22, \"end\": 33, \"tag\": \"neutral\"}\n{\"value\": \"شركات تصنيع السيارات\", \"start\": 36, \"end\": 52, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      },
+      {
+        "value": "power producers",
+        "start": 30,
+        "end": 45,
+        "tag": "positive"
+      },
+      {
+        "value": "carmakers",
+        "start": 47,
+        "end": 56,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Spike in oil prices is a big risk and makes the foreign flows a lot more nervous: IV Subramaniam, Quantum AMC",
+    "truth_annotations": [
+      {
+        "value": "oil",
+        "start": 9,
+        "end": 12,
+        "tag": "negative"
+      },
+      {
+        "value": "Quantum AMC",
+        "start": 98,
+        "end": 109,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "oil prices",
+        "start": 9,
+        "end": 19,
+        "tag": "negative"
+      },
+      {
+        "value": "Quantum AMC",
+        "start": 98,
+        "end": 109,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "تقول زيادة في أسعار النفط أنها مخاطرة كبيرة وتجعل تدفقات الأموال الأجنبية أكثر حذرا: إي في سوبرامانيام، كوانتوم آمك",
+    "translation_answer2": "N/A",
+    "annotations": []
+  },
+  {
+    "content": "Suzlon Energy reports biggest quarterly loss",
+    "truth_annotations": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "تقارير سوزلون إنيرجي عن أكبر خسارة فصلية",
+    "translation_answer2": "{\"value\": \"Suzlon Energy\", \"start\": 11, \"end\": 23, \"tag\": \"negative\"}\n{\"value\": \"biggest quarterly loss\", \"start\": 32, \"end\": 55, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "biggest quarterly loss",
+        "start": 22,
+        "end": 44,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Green bonds value may double to $100 billion in 2015",
+    "truth_annotations": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Equinomics",
+        "start": -1,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "السندات الخضراء قد تتضاعف قيمتها إلى 100 مليار دولار في عام 2015",
+    "translation_answer2": "{\"value\": \"السندات الخضراء\", \"start\": 0, \"end\": 12, \"tag\": \"positive\"}\n{\"value\": \"Equinomics\", \"start\": 82, \"end\": 92, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Equinomics",
+        "start": -1,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ]
+  }
+]

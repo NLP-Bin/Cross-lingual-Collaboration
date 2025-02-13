@@ -1,0 +1,30 @@
+
+进程结束，执行至第 99 条,
+ 内容是
+ {'id': '1801', 'content': 'Crude oil futures up on overseas cues', 'input': 'Crude oil futures up on overseas cues', 'output': '{"value": "Crude oil futures", "start": 0, "end": 17, "tag": "positive"}', 'annotations': [{'value': 'Crude oil futures', 'start': 0, 'end': 17, 'tag': 'positive'}], 'instruction': ''} 
+
+
+annotations Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.6000    0.3409    0.4348        44
+     neutral     0.5283    0.5385    0.5333        52
+    positive     0.7632    0.6444    0.6988        45
+
+   micro avg     0.6207    0.5106    0.5603       141
+   macro avg     0.6305    0.5079    0.5556       141
+weighted avg     0.6256    0.5106    0.5554       141
+
+
+annotations_answer1 Classification Report:
+              precision    recall  f1-score   support
+
+    negative     0.7368    0.3182    0.4444        44
+     neutral     0.5490    0.5385    0.5437        52
+    positive     0.9130    0.4667    0.6176        45
+
+   micro avg     0.6774    0.4468    0.5385       141
+   macro avg     0.7330    0.4411    0.5353       141
+weighted avg     0.7238    0.4468    0.5363       141
+
+

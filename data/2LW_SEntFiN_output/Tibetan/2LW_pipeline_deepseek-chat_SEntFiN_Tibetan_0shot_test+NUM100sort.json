@@ -1,0 +1,3862 @@
+[
+  {
+    "content": "Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "truth_annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      },
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nཀཱ་སི་ཊེགས་ཀྱི་གསལ་བཤད་ཀྱིས་ཨཱམ་ཊེག་ཨཱོ་ཊོའི་ཤེས་རྟགས་ལ་སྐྱེལ་འདྲེན་བྱས་པས་དེ་དང་པོའི་ནང་དུ་༦%གྱི་ཡར་འཕར་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨཱམ་ཊེག་ཨཱོ་ཊོ\", \"start\": 31, \"end\": 41, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Won't get a 2008-like opportunity where everything was so cheap: Nilesh Shah, Axis Capital",
+    "truth_annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \n༢༠༠༨ ལོ་ལྟར་དངུལ་རྩ་ཡོངས་སུ་ཉེ་བའི་གོ་སྐབས་ཞིག་ཐོབ་རྒྱུ་མི་འདུག་སྙམ། ཁྱེད་ཀྱིས་དངུལ་རྩ་ཡོངས་སུ་ཉེ་བའི་གོ་སྐབས་ཞིག་ཐོབ་རྒྱུ་མི་འདུག་སྙམ། ནིལེཤ་ཤཱ། ཨེགསིས་ཀེ་པི་ཊལ།\n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨེགསིས་ཀེ་པི་ཊལ།\", \"start\": 82, \"end\": 94, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Why tech stocks are trending again",
+    "truth_annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཀུ་ཤུ་གི་ཤོག་སྒོར་ཚོ་ཕྱིར་ཁྱབ་ཡོང་བའི་རྒྱུ་རྐྱེན་གང་ཡིན་ནམ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཀུ་ཤུ་\", \"start\": 0, \"end\": 5, \"tag\": \"neutral\"}  \n{\"value\": \"ཤོག་སྒོར་\", \"start\": 6, \"end\": 13, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Friendly buying' lifts FCS Soft on acquisition buzz",
+    "truth_annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nབཀྲ་ཤིས་འཚོང་ཚོང་གིས་ FCS Soft ལ་འཕྲོད་སྐྱེད་གླེང་མོལ་གྱི་སྐབས་སུ་ཉོ་ཚོང་བྱས་པ་ལ་བརྟེན་ནས་མགོ་བརྙན་སྤེལ་བ་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"FCS Soft\", \"start\": 22, \"end\": 30, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "China, Hong Kong stocks rise, banks surge on local govt debt scheme",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      },
+      {
+        "value": "Hong Kong",
+        "start": 7,
+        "end": 16,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nརྒྱ་ནག་དང་ཧོང་ཀོང་གི་ཤོག་རྫས་འཕར་སྐྱེད་དང་དངུལ་ཁང་ཚོ་ས་གནས་སྲིད་གཞུང་གི་དོར་གཞི་ཚོགས་སྒྲིག་གིས་ཁེ་ཕན་བསླབ་བཞིན་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"རྒྱ་ནག\", \"start\": 0, \"end\": 5, \"tag\": \"neutral\"}  \n{\"value\": \"ཧོང་ཀོང\", \"start\": 7, \"end\": 14, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      },
+      {
+        "value": "Hong Kong",
+        "start": 7,
+        "end": 16,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Rs 15.26 crore dividend cheque from REPCO Bank",
+    "truth_annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nརི་པི་ཀོ་བེང་ཀ་གིས་དངུལ་ ༡༥.༢༦ ཀྲོ་ར་གི་དབང་འཛིན་ཆིངས་ཁྲ་བཏང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"རི་པི་ཀོ་བེང་ཀ\", \"start\": 0, \"end\": 12, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Legal tussle forces Sebi to re-think decision on self-regulation",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཁྲིམས་རྩོད་ཀྱིས་སེ་བི་ལ་རང་ཉིད་ཀྱི་ཁྲིམས་ལུགས་སྐོར་གྱི་ཆོག་མཆན་སྐྱར་བཅོས་བྱེད་དུ་བཅུག  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སེ་བི\", \"start\": 10, \"end\": 13, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sensex falls in-line with emerging markets; feels selling pressure",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nསེན་སེགས་ནི་འཕེལ་འགྱུར་གྱི་ཚོང་ཁང་དང་མཐུན་པར་གྲངས་ཀ་ཇེ་དམའ་དུ་སོང་།  ཚོང་སྤྲོད་ཀྱི་ཁེ་ཕན་ལ་ཁ་གཏད་དུ་འཇུག་པའི་གནས་ཚུལ་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སེན་སེགས\", \"start\": 0, \"end\": 6, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Southeast Asian markets rise on Greek debt deal; Thai benchmark recovers two-week low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "Greek debt deal",
+        "start": 32,
+        "end": 47,
+        "tag": "neutral"
+      },
+      {
+        "value": "Thai benchmark",
+        "start": 49,
+        "end": 63,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nལྷོ་ཤར་ཨེ་ཤ་ཡའི་ཚོང་ར་རྣམས་གྲིས་གི་ཁེ་ཕན་གྱི་དོན་དག་ལ་བརྟེན་ནས་འཕར་ཡོད་པ་དང་། ཐའེ་ལེན་གྱི་དཔེ་མཚོན་རིམ་པ་ཉིན་གཉིས་ཀྱི་དམའ་ཚད་ལས་བསྐྱར་གསོ་བྱུང་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ལྷོ་ཤར་ཨེ་ཤ་ཡའི་ཚོང་ར\", \"start\": 0, \"end\": 21, \"tag\": \"positive\"}  \n{\"value\": \"གྲིས་གི་ཁེ་ཕན་གྱི་དོན་དག\", \"start\": 22, \"end\": 44, \"tag\": \"neutral\"}  \n{\"value\": \"ཐའེ་ལེན་གྱི་དཔེ་མཚོན་རིམ་པ\", \"start\": 46, \"end\": 69, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "Greek debt deal",
+        "start": 32,
+        "end": 47,
+        "tag": "neutral"
+      },
+      {
+        "value": "Thai benchmark",
+        "start": 49,
+        "end": 63,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Indo Count top bet in textile sector: Vinay Khattar, Edelweiss Financial",
+    "truth_annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "textile sector",
+        "start": 22,
+        "end": 36,
+        "tag": "neutral"
+      },
+      {
+        "value": "Vinay Khattar",
+        "start": 38,
+        "end": 51,
+        "tag": "neutral"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཨིན་ཌོ་ཀཱའུན་ཊི་ནི་ཐགས་གཟིགས་ཀྱི་ཚོང་ལས་ཁུངས་སུ་གཙོ་བོ་ཡིན་པ་དང་། ཝི་ནེ་ཁཱ་ཊར་དང་ཨེ་ཌེལ་ཝེས་ཕིནན་ཤེལ་གྱིས་བཤད་པ་ལྟར།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨིན་ཌོ་ཀཱའུན་ཊི\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"ཝི་ནེ་ཁཱ་ཊར\", \"start\": 35, \"end\": 48, \"tag\": \"neutral\"}  \n{\"value\": \"ཨེ་ཌེལ་ཝེས་ཕིནན་ཤེལ\", \"start\": 50, \"end\": 68, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "Vinay Khattar",
+        "start": 38,
+        "end": 51,
+        "tag": "neutral"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Franklin Templeton buys record Rs 16,000-crore government securities in a day",
+    "truth_annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཕྲེང་ཀླིན་ཊེམ་པིལ་ཊོན་གྱིས་ཉིན་གཅིག་གི་ནང་སྲིད་གཞུང་གི་དངུལ་ལས་ཀྱི་ཉོ་ཚོང་རྩ་འཕྲིན་ ༡༦,༠༠༠ ཀྲོ་རྒྱ་གྲངས་ཀྱིས་ཉོ་ཚོང་བྱས་པ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཕྲེང་ཀླིན་ཊེམ་པིལ་ཊོན\", \"start\": 0, \"end\": 19, \"tag\": \"neutral\"}  \n{\"value\": \"སྲིད་གཞུང\", \"start\": 29, \"end\": 34, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "government securities",
+        "start": 47,
+        "end": 68,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "IndiGo set to launch Rs 2,500-crore initial public offering",
+    "truth_annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཨིན་ཌི་གོ་གིས་ ༢,༥༠༠ ཀྲོ་རེའི་ཐོག་མའི་སྤེལ་རྩིས་སྤེལ་རྒྱུའི་འཆར་གཞི་བཟོ་བཞིན་པའོ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨིན་ཌི་གོ\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Q4 earnings: RIL's profit jumps up 32 pc on rising refining income",
+    "truth_annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nབརྒྱད་པའི་དུས་ཚིགས་ཀྱི་ཚོང་འབྲེལ་གྱི་དོན་རྐྱེན། RIL གི་ལོ་དོན་ཚོང་འབྲེལ་གྱི་དོན་རྐྱེན་ལ་བརྟེན་ནས་ཕྱི་ལོ་ཉིས་བརྒྱ་ཆ་སུམ་ཅུ་རེ་གཉིས་ཀྱི་འཕར་བ་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"RIL\", \"start\": 13, \"end\": 16, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "High Court appointed committee can seek information on NSEL hit investors:  Bombay HC",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "ཁྲིམས་ཁང་གིས་བསྐོ་བཞག་བྱས་པའི་ཚོགས་ཆུང་གིས་NSEL ལ་ཉེ་ཤུགས་ཐེབས་པའི་ལག་ཤུབས་པ་ཚོའི་སྐོར་ལ་ཁ་གསལ་གྱི་གནས་ཚུལ་འཚོལ་བསྡུ་བྱ་ཆོག་པར་བོམ་བེ་ཡེ་ཨེཆ་སི་ཀྱིས་བཤད་པ།  \n\n###",
+    "translation_answer2": "{\"value\": \"ཁྲིམས་ཁང་\", \"start\": 0, \"end\": 9, \"tag\": \"neutral\"}  \n{\"value\": \"NSEL\", \"start\": 31, \"end\": 35, \"tag\": \"neutral\"}  \n{\"value\": \"བོམ་བེ་ཡེ་ཨེཆ་སི་\", \"start\": 61, \"end\": 80, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "GSFC Q3 profit dips 26% on sluggish sales",
+    "truth_annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "L&T Finance case: Factorial says will cooperate with Sebi",
+    "truth_annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Factorial",
+        "start": 18,
+        "end": 27,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nL&T Finance གི་གནད་དོན: Factorial ཡིས་ Sebi ལ་མཐུན་རྐྱེན་སྤྲོད་ཀྱི་ཡིན་པར་བཤད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"L&T Finance\", \"start\": 0, \"end\": 11, \"tag\": \"neutral\"}  \n{\"value\": \"Factorial\", \"start\": 19, \"end\": 28, \"tag\": \"neutral\"}  \n{\"value\": \"Sebi\", \"start\": 52, \"end\": 56, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Factorial",
+        "start": 18,
+        "end": 27,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Goa Carbon Ltd posts Rs 670.89 lakh net loss in Q1",
+    "truth_annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nགོ་ཨ་ཀཱར་བཱོན་ལིམི་ཊེཌ་གིས་དངོས་ལོགས་ཀྱི་ཚེས་པ་དང་པོའི་ནང་དངུལ་ ༦༧༠.༨༩ ལཀྵ་ཀྱི་གྲངས་ཀ་ཉོན་མོངས་ཐོན་པ་བཀོད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"གོ་ཨ་ཀཱར་བཱོན་ལིམི་ཊེཌ\", \"start\": 0, \"end\": 18, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Wockhardt story is really intriguing: Deven Choksey",
+    "truth_annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཝོཀྷརྡ་གྱི་སྐོར་ལ་བཤད་ན་ཧ་ཅང་སྤྲོ་བའི་གནས་སྟངས་ཡིན། དེ་ཝན་ཆོག་སེ་ལ་གཟིགས།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Wockhardt\", \"start\": 0, \"end\": 9, \"tag\": \"neutral\"}  \n{\"value\": \"Deven Choksey\", \"start\": 34, \"end\": 47, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Deven Choksey",
+        "start": 38,
+        "end": 51,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sebi ask cos to follow std format for auditor certificates",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "སེ་བི་ཡིས་ཚོང་ཁང་དག་ལ་ཞིབ་དཔྱད་པའི་ལག་ཁྱེར་དག་གི་རྩ་སྤྱི་གཞི་ལ་བརྩི་སྲུང་བྱེད་དུ་བཅུག་པ་རེད།  \n\n###",
+    "translation_answer2": "{\"value\": \"སེ་བི\", \"start\": 0, \"end\": 3, \"tag\": \"neutral\"}  \n{\"value\": \"ཚོང་ཁང\", \"start\": 7, \"end\": 11, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "cos",
+        "start": 9,
+        "end": 12,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Nestle falls as government sues company over Maggi row; seeks Rs 640 crore in damages",
+    "truth_annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "government",
+        "start": 16,
+        "end": 26,
+        "tag": "neutral"
+      },
+      {
+        "value": "Maggi",
+        "start": 45,
+        "end": 50,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "government",
+        "start": 16,
+        "end": 26,
+        "tag": "neutral"
+      },
+      {
+        "value": "Maggi",
+        "start": 45,
+        "end": 50,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "China shares recoup losses on power producers, carmakers",
+    "truth_annotations": [
+      {
+        "value": "China shares",
+        "start": 0,
+        "end": 12,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཀྲུང་གོའི་ཤོག་རྒྱགས་དང་མོ་ཊ་ཚོང་ལས་པའི་ཤོག་རྒྱགས་ཀྱི་ཁྱད་པར་བསྐྱར་འཕྲི་བྱས་པ་དང་།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"ཀྲུང་གོ\", \"start\": 0, \"end\": 5, \"tag\": \"neutral\"}]",
+    "annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Spike in oil prices is a big risk and makes the foreign flows a lot more nervous: IV Subramaniam, Quantum AMC",
+    "truth_annotations": [
+      {
+        "value": "oil",
+        "start": 9,
+        "end": 12,
+        "tag": "negative"
+      },
+      {
+        "value": "Quantum AMC",
+        "start": 98,
+        "end": 109,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Quantum AMC",
+        "start": 98,
+        "end": 109,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཚོང་དངུལ་གྱི་རིམ་པའི་ནང་སྦྲེལ་མ་ཐེབས་པའི་སྐྱེས་པ་ཞིག་གིས་ཆུ་སྲིན་གྱི་རིམ་པ་ཆེན་པོ་ཞིག་དང་དེས་ཕྱི་ཕྱོགས་ཀྱི་རྒྱུ་ཆ་ཚང་མ་ཧ་ཅང་སྐྱོ་སྣང་ཆེན་པོ་བཟོ་བཞིན་པ་རེད། ཨི་ཝི་སུབ་ར་མ་ཎི་ཡམ་, ཀོ་ཝན་ཊམ་ཨེ་ཨེམ་སི།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Quantum AMC\", \"start\": 80, \"end\": 91, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Quantum AMC",
+        "start": 98,
+        "end": 109,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Suzlon Energy reports biggest quarterly loss",
+    "truth_annotations": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nསུཛློན་ཨེནརྗི་གིས་དུས་ཚིགས་ཀྱི་ཁྱད་པར་དུ་ཆེས་ཆེན་པོའི་ནུས་པ་ཉམས་སུ་ལོན་པའི་གནས་ཚུལ་བསྡུར་བ་ཞིག་བཀོད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སུཛློན་ཨེནརྗི\", \"start\": 0, \"end\": 10, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Green bonds value may double to $100 billion in 2015",
+    "truth_annotations": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nགྲིན་བོན་གྱི་རིན་ཐང་༢༠༡༥ལོར་དངུལ་རྩ་ཁྲི་༡༠༠ཡི་བར་དུ་གཉིས་སྒྱུར་བྱེད་ཐུབ་པར་འདུག  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"གྲིན་བོན\", \"start\": 0, \"end\": 7, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Eros is planning to delist its Indian subsidiary? Stock surges",
+    "truth_annotations": [
+      {
+        "value": "Eros",
+        "start": 0,
+        "end": 4,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Eros",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indian subsidiary",
+        "start": 31,
+        "end": 48,
+        "tag": "neutral"
+      },
+      {
+        "value": "Stock",
+        "start": 50,
+        "end": 55,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nEros ཡིས་རྒྱ་གར་གྱི་ཁོངས་སྤྱི་ཁྱབ་བཟོ་སྐྲུན་གཏོང་བཞིན་པའི་སྐོར་ལ་དོན་གཉེར་བྱེད་བཞིན་ཡོད། རྒྱུ་ཆ་གཞི་རིམ་གྱི་རིམ་པ་མཐོ་རུ་སོང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Eros\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}  \n{\"value\": \"རྒྱ་གར་གྱི་ཁོངས་སྤྱི་ཁྱབ་བཟོ་སྐྲུན\", \"start\": 10, \"end\": 36, \"tag\": \"neutral\"}  \n{\"value\": \"རྒྱུ་ཆ་གཞི་རིམ\", \"start\": 45, \"end\": 57, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Eros",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indian subsidiary",
+        "start": 31,
+        "end": 48,
+        "tag": "neutral"
+      },
+      {
+        "value": "Stock",
+        "start": 50,
+        "end": 55,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Dollar firm as Fed minutes likely to highlight policy divergence with peers",
+    "truth_annotations": [
+      {
+        "value": "Dollar",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Fed",
+        "start": 15,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Fed",
+        "start": 15,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Gujarat Apollo locked in upper circuit on delisting buzz, up 20%",
+    "truth_annotations": [
+      {
+        "value": "Gujarat Apollo",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Gujarat Apollo",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nགུ་ཇ་རཱཏ་ཨ་པོ་ལོ་དང་འབྲེལ་བའི་སྡོད་ཚོད་རྒྱུགས་མཐུད་དུ་ཡོད་པའི་སྐོར་གྱི་གསར་འགྱུར་དང་བསྟུན་ནས། སྡོད་ཚོད་ཀྱི་རིམས་ཀྱི་འཕར་ཚད་༢༠% ཡི་ཡོངས་སུ་གཏོང་བར་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"གུ་ཇ་རཱཏ་ཨ་པོ་ལོ\", \"start\": 0, \"end\": 13, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Gujarat Apollo",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Several small caps trading at eye-popping valuations",
+    "truth_annotations": [
+      {
+        "value": "small caps",
+        "start": 8,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "small caps",
+        "start": 8,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nདངུལ་ལས་དོན་གྱི་ཡིག་ཆ་དེ་བོད་སྐད་དུ་བསྒྱུར་ན། འགྲེལ་བཤད་དང་བཅས་པ་འདི་ལྟར་སྣང་། སྐྱེས་པ་ཆུང་ངུ་མང་པོ་ཞིག་གི་གྲངས་རིན་པོ་ཆེ་ཡིན་པའི་ཚད་ལ་ཁ་ཕྱེ་བཞིན་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n```python\n{\"value\": \"small caps\", \"start\": 8, \"end\": 18, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "small caps",
+        "start": 8,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Favour private sector banks in the banking space: Deven Choksy",
+    "truth_annotations": [
+      {
+        "value": "private sector banks",
+        "start": 7,
+        "end": 27,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "private sector banks",
+        "start": 7,
+        "end": 27,
+        "tag": "positive"
+      },
+      {
+        "value": "banking space",
+        "start": 35,
+        "end": 48,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nདངུལ་རྩའི་སྤྱི་ཚོགས་ཀྱི་དངུལ་ཁང་གི་ཁྱབ་ཁོངས་སུ་སྤྱི་ཚོགས་ཀྱི་དངུལ་ཁང་ལ་དགའ་བ་སྟོན།: དེ་བེན་ཆོག་སྐྱི།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སྤྱི་ཚོགས་ཀྱི་དངུལ་ཁང་\", \"start\": 7, \"end\": 29, \"tag\": \"positive\"}  \n{\"value\": \"དངུལ་ཁང་གི་ཁྱབ་ཁོངས་\", \"start\": 34, \"end\": 47, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "private sector banks",
+        "start": 7,
+        "end": 27,
+        "tag": "positive"
+      },
+      {
+        "value": "banking space",
+        "start": 35,
+        "end": 48,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Expect a 3-4% dip in Bank Nifty before fresh levels breakout: Mitesh Thacker",
+    "truth_annotations": [
+      {
+        "value": "Bank Nifty",
+        "start": 21,
+        "end": 31,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Bank Nifty",
+        "start": 21,
+        "end": 31,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitesh Thacker",
+        "start": 62,
+        "end": 76,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "བློ་རྩེ་མཐོ་རིམ་གྱི་མཐོ་རིམ་འགོ་ཚུགས་སྔོན་དུ་ Bank Nifty ལ་ 3-4% གྱི་ཟད་པ་ཞིག་སྤྱིར་བཏང་བྱེད་དགོས་པ་ཡིན། མི་ཊེཤ་ཐ་ཀར་གྱིས་བཤད།  \n\n###",
+    "translation_answer2": "{\"value\": \"Bank Nifty\", \"start\": 45, \"end\": 55, \"tag\": \"negative\"}  \n{\"value\": \"Mitesh Thacker\", \"start\": 86, \"end\": 100, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Bank Nifty",
+        "start": 21,
+        "end": 31,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitesh Thacker",
+        "start": 62,
+        "end": 76,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Bharat Forge Q3 Net jumps two-fold to Rs 196.34 crore",
+    "truth_annotations": [
+      {
+        "value": "Bharat Forge",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Bharat Forge",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "༡༩༦་༣༤ ས་ག་རེད་པའི་སྲིལ་རྩའི་ཁྱད་ཆོས་ཀྱི་མཐུན་སྒྲིལ་གཉིས་བརྒྱ་ཕྱེ་བས་འདི་སྤྱི་དམངས་སྤྲོད་ཚོང་རྨ་ཆུང་ལྷན་འཛིན་གྱིས་འཁོར་ཡུན་འགྲེམས་སྟེ།",
+    "translation_answer2": "{\"value\": \"Bharat Forge\", \"start\": 0, \"end\": 11, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Bharat Forge",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Credit Suisse trims Nifty earnings estimates",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 20,
+        "end": 25,
+        "tag": "negative"
+      },
+      {
+        "value": "Credit Suisse",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Credit Suisse",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Nifty",
+        "start": 20,
+        "end": 25,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཀྲེཌིཊ་སུཨིས་གྱིས་ནིཕི་ཊི་ཡི་ཨེར་ནིང་ཨེསི་མེཊ་གྱི་རྩིས་ཐོ་ཆུང་དུ་བཟོས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཀྲེཌིཊ་སུཨིས\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"ནིཕི་ཊི\", \"start\": 17, \"end\": 22, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Credit Suisse",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Nifty",
+        "start": 20,
+        "end": 25,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Bankers seek clarity on tax treatment of new Additional Tier-I bonds under Basel-III",
+    "truth_annotations": [
+      {
+        "value": "Tier-I bonds",
+        "start": 56,
+        "end": 68,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Bankers",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      },
+      {
+        "value": "Basel-III",
+        "start": 75,
+        "end": 84,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Bankers",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      },
+      {
+        "value": "Basel-III",
+        "start": 75,
+        "end": 84,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Short-covering ahead of Q3 results lifts Maruti",
+    "truth_annotations": [
+      {
+        "value": "Maruti",
+        "start": 41,
+        "end": 47,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Maruti",
+        "start": 41,
+        "end": 47,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nཚེས་གསུམ་པའི་འབྲས་བུ་སྔོན་ལ་ཐུང་ཆུང་བཀག་སྟངས་ཀྱིས་མ་རུ་ཏི་ལ་ཡར་འཕར་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"མ་རུ་ཏི\", \"start\": 45, \"end\": 51, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Maruti",
+        "start": 41,
+        "end": 47,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Goldman Sachs prices 30-year, $974 million bond in Taiwan: Sources",
+    "truth_annotations": [
+      {
+        "value": "Goldman Sachs",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Goldman Sachs",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Taiwan",
+        "start": 51,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nགོལ་དྷི་མཱན་སཱཀས་ཀྱིས་ཏ་ཡི་ཝཱན་ནང་ལོ་༣༠་དང་དངུལ་༩༧༤་མི་ལི་ཡོན་གྱི་བོན་ཌི་ཨེན་དེ་རིན་གོང་བཀོད་པའི་སྐོར་ལ་ཁ་ཆེམས་བཀོད་པ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"གོལ་དྷི་མཱན་སཱཀས\", \"start\": 0, \"end\": 13, \"tag\": \"neutral\"}, {\"value\": \"ཏ་ཡི་ཝཱན\", \"start\": 53, \"end\": 59, \"tag\": \"neutral\"}]",
+    "annotations": [
+      {
+        "value": "Goldman Sachs",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Pre-market: Nifty seen opening flat; Kotak Mahindra eyed",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 12,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "Kotak Mahindra",
+        "start": 37,
+        "end": 51,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 12,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "Kotak Mahindra",
+        "start": 37,
+        "end": 51,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nསྔ་ཚོགས་ཀྱི་སྒོར་སྣེ་ནི་Nifty ཡིས་སྤྱི་སྒོར་ཁ་ཕྱེ་བ་ལྟར་བསྟན་པ་དང་། Kotak Mahindra ལ་དམིགས་བསལ་གྱི་དྲིས་གཞི་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Nifty\", \"start\": 11, \"end\": 16, \"tag\": \"neutral\"}  \n{\"value\": \"Kotak Mahindra\", \"start\": 32, \"end\": 45, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 12,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "Kotak Mahindra",
+        "start": 37,
+        "end": 51,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Tara Jewels Q2 net dips by 29 pc to Rs 11.03 crore",
+    "truth_annotations": [
+      {
+        "value": "Tara Jewels",
+        "start": 0,
+        "end": 11,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Tara Jewels",
+        "start": 0,
+        "end": 11,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nཏ་ར་ ཇུ་ཝེལས་ ཀྱི་ དུས་ཚིགས་ གཉིས་པའི་ དྲུག་གི་ ཕྱིར་ལེན་ ༢༩ པར་ཚན་ ཀྲོ་རེ་ ༡༡.༠༣ ལ་ ཕར་བཀག་པ་ ཡིན།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཏ་ར་ ཇུ་ཝེལས་\", \"start\": 0, \"end\": 12, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Tara Jewels",
+        "start": 0,
+        "end": 11,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "ECB QE: What markets expect and what it might mean",
+    "truth_annotations": [
+      {
+        "value": "ECB",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "ECB",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "ECB",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "GMR Group plans to sell stake in Karur Vysya Bank",
+    "truth_annotations": [
+      {
+        "value": "Karur Vysya Bank",
+        "start": 33,
+        "end": 49,
+        "tag": "negative"
+      },
+      {
+        "value": "GMR Group",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "GMR Group",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Karur Vysya Bank",
+        "start": 33,
+        "end": 49,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "GMR Group གིས་ Karur Vysya Bank ནང་ལུ་ཤོག་སྒོར་ཚོང་རྫས་བཙོང་ནི་གི་འཆར་གཞི་བཀོད་དོ་།  \n\n###",
+    "translation_answer2": "[{\"value\": \"GMR Group\", \"start\": 0, \"end\": 9, \"tag\": \"neutral\"}, {\"value\": \"Karur Vysya Bank\", \"start\": 20, \"end\": 37, \"tag\": \"neutral\"}]",
+    "annotations": [
+      {
+        "value": "GMR Group",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Unseasonal rains, hailstorms affect rural demand for gold in wedding season",
+    "truth_annotations": [
+      {
+        "value": "gold",
+        "start": 53,
+        "end": 57,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Unseasonal rains",
+        "start": 0,
+        "end": 16,
+        "tag": "neutral"
+      },
+      {
+        "value": "hailstorms",
+        "start": 18,
+        "end": 28,
+        "tag": "neutral"
+      },
+      {
+        "value": "rural demand",
+        "start": 36,
+        "end": 48,
+        "tag": "neutral"
+      },
+      {
+        "value": "gold",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      },
+      {
+        "value": "wedding season",
+        "start": 61,
+        "end": 75,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nདུས་མིན་ཆར་པ་དང་སེར་པོའི་རླུང་གིས་དགུང་གི་དགོས་མཁོ་ལ་ཤུགས་རྐྱེན་ཐེབས་པས་གཡུས་སོགས་སུ་གསེར་གྱི་དགོས་མཁོ་ཇེ་ཉུང་དུ་གྱུར་པ་དང་། བག་མ་སྐབས་སུ་དེ་ལ་ཤུགས་རྐྱེན་ཐེབས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"དུས་མིན་ཆར་པ\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"སེར་པོའི་རླུང\", \"start\": 12, \"end\": 23, \"tag\": \"neutral\"}  \n{\"value\": \"གསེར\", \"start\": 47, \"end\": 51, \"tag\": \"neutral\"}  \n{\"value\": \"བག་མ་སྐབས\", \"start\": 56, \"end\": 66, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Unseasonal rains",
+        "start": 0,
+        "end": 16,
+        "tag": "neutral"
+      },
+      {
+        "value": "hailstorms",
+        "start": 18,
+        "end": 28,
+        "tag": "neutral"
+      },
+      {
+        "value": "rural demand",
+        "start": 36,
+        "end": 48,
+        "tag": "negative"
+      },
+      {
+        "value": "gold",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      },
+      {
+        "value": "wedding season",
+        "start": 61,
+        "end": 75,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Defence-related stocks rally on Indo-US nuclear deal",
+    "truth_annotations": [
+      {
+        "value": "Defence-related stocks",
+        "start": 0,
+        "end": 22,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Indo-US nuclear deal",
+        "start": 32,
+        "end": 52,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nདམག་སྒྲིག་འབྲེལ་བའི་རྒྱུ་ཆ་དག་ཨིན་ཌོ་ཨ་མེ་རི་ཀ་གི་ནུ་ཀླི་ཡར་གྱི་ཉེས་སྒྲུབ་དང་བསྟུན་ནས་རྒྱལ་ཡོངས་ཀྱི་རྒྱུ་ཆ་བསྐྱར་འཕར་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Indo-US nuclear deal\", \"start\": 34, \"end\": 54, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Indo-US nuclear deal",
+        "start": 32,
+        "end": 52,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "EXL Services Q1 net up 48.69 pc at $8.36 mn",
+    "truth_annotations": [
+      {
+        "value": "EXL Services",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "EXL Services",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nEXL ཚོང་ཁང་གི་དངོས་ཟོག་གི་ཐོག་མའི་དུས་ཚོད་ཀྱི་བླངས་ཐོབ་ 48.69 ཨང་གྲངས་ཀྱིས་མཐོ་རུ་འགྲོ་བ་དང་། དངུལ་ 8.36 མི་ལི་ཡོན་དང་འདྲ་བར་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"EXL ཚོང་ཁང་\", \"start\": 0, \"end\": 12, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "EXL Services",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Nifty's worst New Year start since 1996; what experts are betting on",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nནིཕི་ཊི་གི་ལོ་གསར་གྱི་འགོ་ཚུགས་༡༩༩༦ལོ་ནས་བཟུང་ཚབས་ཆེན་པོ་དམན་པའི་འགོ་ཚུགས་ཡིན། དེ་ལ་མཁས་པ་རྣམས་ཀྱིས་གང་ལ་འབྲེལ་གཏུག་བྱེད་བཞིན་པའོ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Nifty\", \"start\": 0, \"end\": 5, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Minimum 25% public holding should also apply to public sector companies: Sebi",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 73,
+        "end": 77,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 73,
+        "end": 77,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 73,
+        "end": 77,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Rouble's woes spread to other ex-Soviet currencies",
+    "truth_annotations": [
+      {
+        "value": "Rouble",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "**  \nརུ་བྷལ་གྱི་དཀའ་ངལ་དེ་སོབས་སྡུད་ཀྱི་ཁ་ཕྱོགས་སུ་གཞན་པའི་ཨེག་ཟེ་སོ་བི་ཡེ་ཚེ་ཡི་དངུལ་རྣམས་ལ་ཁྱབ་པར་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n[]",
+    "annotations": []
+  },
+  {
+    "content": "8200 holds the key for Nifty; Sensex likely to climb to 27,375: Mitesh Thacker",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 30,
+        "end": 36,
+        "tag": "positive"
+      },
+      {
+        "value": "Nifty",
+        "start": 23,
+        "end": 28,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 23,
+        "end": 28,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sensex",
+        "start": 30,
+        "end": 36,
+        "tag": "positive"
+      },
+      {
+        "value": "Mitesh Thacker",
+        "start": 64,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \n༈༻༸ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈  \n༢༠༠༠ ནི་ནིཕ་ཊི་གི་གལ་ཆེའི་ལྡེ་མིག་ཡིན། སེན་སེགས་ཀྱིས་༢༧,༣༧༥ ལ་འགྲིལ་བར་སྙིང་སྟོབས་ཡོད། མི་ཏེཤ་ཐཱ་ཀར་གྱིས་བཤད་པ།  \n༈༻༸ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈ ༸༻༈  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ནིཕ་ཊི\", \"start\": 23, \"end\": 28, \"tag\": \"neutral\"}  \n{\"value\": \"སེན་སེགས\", \"start\": 34, \"end\": 40, \"tag\": \"positive\"}  \n{\"value\": \"མི་ཏེཤ་ཐཱ་ཀར\", \"start\": 59, \"end\": 73, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 23,
+        "end": 28,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sensex",
+        "start": 30,
+        "end": 36,
+        "tag": "positive"
+      },
+      {
+        "value": "Mitesh Thacker",
+        "start": 64,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "IT stocks to benefit in the short term: Mitesh Thacker",
+    "truth_annotations": [
+      {
+        "value": "IT stocks",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IT stocks",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Mitesh Thacker",
+        "start": 40,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཨའི་ཊི་རྒྱལ་སྤྱིའི་རྩ་འཕྲིན་གྱི་སྐོར་ལ་ཐུང་ཐུང་སྐབས་སུ་ཕན་ཐོགས་འབྱུང་ངེས་པ་ཞིག་སྟེ། མི་ཊེཤ་ཐཱཀ་གིས་བཤད་པའོ།།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨའི་ཊི་རྒྱལ་སྤྱིའི་རྩ་འཕྲིན\", \"start\": 0, \"end\": 21, \"tag\": \"neutral\"}  \n{\"value\": \"མི་ཊེཤ་ཐཱཀ\", \"start\": 44, \"end\": 56, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "IT stocks",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Mitesh Thacker",
+        "start": 40,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Fed taper pulls down Sensex by 149 pts to two-month low",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 21,
+        "end": 27,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Fed",
+        "start": 0,
+        "end": 3,
+        "tag": "negative"
+      },
+      {
+        "value": "Sensex",
+        "start": 21,
+        "end": 27,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nཕེད་ཀྱི་ཚོར་བ་ཆུང་བ་དང་བསྟུན་ནས་སེན་སེགས་ཀྱི་གྲངས་ཚད་སྤྱི་ཟླ་གཉིས་ཀྱི་མཐའ་མར་ཐོག་མར་ཕྱིན་པ་ལ་རྒྱུས་མངའ་བྱུང་བ་དང་། 149 ཕོ་ཐོག་གི་མཐོ་ཚད་ལ་འགྲོ་བ་དང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Fed\", \"start\": 0, \"end\": 3, \"tag\": \"negative\"}  \n{\"value\": \"Sensex\", \"start\": 25, \"end\": 31, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Fed",
+        "start": 0,
+        "end": 3,
+        "tag": "negative"
+      },
+      {
+        "value": "Sensex",
+        "start": 21,
+        "end": 27,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Earnings leading rally for IT stocks: Harendra Kumar",
+    "truth_annotations": [
+      {
+        "value": "IT stocks",
+        "start": 27,
+        "end": 36,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IT stocks",
+        "start": 27,
+        "end": 36,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nརྩིས་ཐོག་གི་འབྲས་བུ་གཙོ་བོ་དང་། ཨང་གྲངས་ཀྱི་རྒྱུ་ཆ་ཚོང་ལས་རྩིས་ཐོག་གི་སྤོས་ཆེན་ལ་བསྟུན་ནས་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨང་གྲངས་ཀྱི་རྩིས་ཐོག\", \"start\": 29, \"end\": 47, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "IT stocks",
+        "start": 27,
+        "end": 36,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "5546 key level for Nifty today: Ashwani Gujral",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 19,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 19,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \n༥༥༤༦ གི་གནད་ཚད་ཀྱི་རིམ་པ་ནི་དེ་རིང་གི་དོན་ལ་ཨཤྭ་ནི་གུ་ཇ་ལ་ལ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Nifty\", \"start\": 17, \"end\": 22, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 19,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "TA Associates eyes Motilal Oswal's 12 per cent stake in AU Financiers",
+    "truth_annotations": [
+      {
+        "value": "TA Associates",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Motilal Oswal",
+        "start": 19,
+        "end": 32,
+        "tag": "neutral"
+      },
+      {
+        "value": "AU Financiers",
+        "start": 56,
+        "end": 69,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "TA Associates",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Motilal Oswal",
+        "start": 19,
+        "end": 32,
+        "tag": "neutral"
+      },
+      {
+        "value": "AU Financiers",
+        "start": 56,
+        "end": 69,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཏི་ཨེ་ཨེསོ་སི་ཡེ་ཊས་ཀྱིས་མོ་ཏི་ལལ་ཨོ་སོ་ལ་གྱི་ཨེ་ཡུ་ཕི་ནེན་སི་ཡར་ལ་ཆ་ཤས་བཅུ་གཉིས་ཀྱི་ཐོབ་ཐང་ལ་དམིགས་བསལ་བྱེད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"TA Associates\", \"start\": 0, \"end\": 13, \"tag\": \"neutral\"}  \n{\"value\": \"Motilal Oswal\", \"start\": 20, \"end\": 33, \"tag\": \"neutral\"}  \n{\"value\": \"AU Financiers\", \"start\": 52, \"end\": 65, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "TA Associates",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Motilal Oswal",
+        "start": 19,
+        "end": 32,
+        "tag": "neutral"
+      },
+      {
+        "value": "AU Financiers",
+        "start": 56,
+        "end": 69,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Court issues fresh summons to Sahara, its chief Subrata Roy",
+    "truth_annotations": [
+      {
+        "value": "Sahara",
+        "start": 30,
+        "end": 36,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sahara",
+        "start": 30,
+        "end": 36,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཁྲིམས་ཁང་གིས་ས་ཧ་ར་དང་དེའི་མཐོ་དམངས་སུབྲ་ཏ་རོ་ཡི་ལ་གསར་བའི་བཀའ་དྲིལ་གཏོང་བ་བྱས་པའོ།།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ས་ཧ་ར་\", \"start\": 12, \"end\": 18, \"tag\": \"neutral\"}  \n{\"value\": \"སུབྲ་ཏ་རོ་ཡི་\", \"start\": 22, \"end\": 31, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sahara",
+        "start": 30,
+        "end": 36,
+        "tag": "neutral"
+      },
+      {
+        "value": "Subrata Roy",
+        "start": 48,
+        "end": 59,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Rice bran oil set to smoke out olive oil",
+    "truth_annotations": [
+      {
+        "value": "Rice bran oil",
+        "start": 0,
+        "end": 13,
+        "tag": "positive"
+      },
+      {
+        "value": "olive oil",
+        "start": 31,
+        "end": 40,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Rice bran oil",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "olive oil",
+        "start": 31,
+        "end": 40,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nརྩྭ་བྲེ་ཚྭ་མར་གྱིས་ཨོ་ལི་ཝ་ཚྭ་མར་ལ་དུ་བ་བཀོག་པར་འདོད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"རྩྭ་བྲེ་ཚྭ་མར\", \"start\": 0, \"end\": 12, \"tag\": \"neutral\"}  \n{\"value\": \"ཨོ་ལི་ཝ་ཚྭ་མར\", \"start\": 21, \"end\": 34, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Rice bran oil",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "olive oil",
+        "start": 31,
+        "end": 40,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "NASDAQ can rally another 50% in next 2 years; Indian IT stocks stand to gain?",
+    "truth_annotations": [
+      {
+        "value": "NASDAQ",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Indian IT stocks",
+        "start": 46,
+        "end": 62,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "NASDAQ",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indian IT stocks",
+        "start": 46,
+        "end": 62,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nNASDAQ དག་ཕྱི་ལོ་ 2 ཡི་ནང་དུ་ 50% ཡི་ཐོག་རྒྱུག་ཆེན་པོ་བྱེད་ཐུབ་པ་རེད། བོད་ཀྱི་ཨང་ཀི་རྩིས་རྐྱང་དག་ལ་ཕན་པ་ཡོད་དམ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"NASDAQ\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}  \n{\"value\": \"བོད་ཀྱི་ཨང་ཀི་རྩིས་རྐྱང\", \"start\": 33, \"end\": 49, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "NASDAQ",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indian IT stocks",
+        "start": 46,
+        "end": 62,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Moser Baer Q2 standalone loss at Rs 131.75 cr",
+    "truth_annotations": [
+      {
+        "value": "Moser Baer",
+        "start": 0,
+        "end": 10,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Moser Baer",
+        "start": 0,
+        "end": 10,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nམོ་སེར་བེར་གྱི་དུས་སྐབས་གཉིས་པའི་རང་སྟེང་གི་ཉོ་ཚོང་གི་གྲངས་འགོད་ལ་ཨར་པི་ 131.75 ཀྲོ་རུ་ཡི་གཉེར་བ་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"མོ་སེར་བེར\", \"start\": 0, \"end\": 10, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Moser Baer",
+        "start": 0,
+        "end": 10,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "QE fears resurface, markets crash; heres what experts are betting on",
+    "truth_annotations": [
+      {
+        "value": "QE",
+        "start": 0,
+        "end": 2,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "QE",
+        "start": 0,
+        "end": 2,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nཚོང་འཛིན་གྱི་འཇིགས་སྣང་ཡང་བསྐྱར་འཕར་བྱུང་། །ཚོང་ཁང་གི་རིམས་པ་མགོ་ཚིགས་སུ་འགྲོ་བ། །ཨེ་ཀསི་པེར་ཚོ་བའི་བཀོད་ཚུལ་དེ་གང་ཡིན་ནམ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"QE\", \"start\": 0, \"end\": 2, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "QE",
+        "start": 0,
+        "end": 2,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Warren Buffett cuts Tesco stake to below 3 per cent",
+    "truth_annotations": [
+      {
+        "value": "Tesco",
+        "start": 20,
+        "end": 25,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Warren Buffett",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "Tesco",
+        "start": 20,
+        "end": 25,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "༼ཝོ་རེན་བཱཕེཊ་གིས་ཊེས་ཀོའི་ཤ་རྨང་གངས་ཚད༣ཕལ་ཆེར་ལས་ཀང་ཆུང་དུ་བཀོད།༽",
+    "translation_answer2": "{\"value\": \"ཝོ་རེན་བཱཕེཊ\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"ཊེས་ཀོ\", \"start\": 16, \"end\": 21, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Warren Buffett",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "Tesco",
+        "start": 20,
+        "end": 25,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Whats trending in F&Os? 8,358 level crucial for Nifty",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 48,
+        "end": 53,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 48,
+        "end": 53,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "ཨེཕ་ཨེན་ཨོ་ཡི་ནང་གི་གནས་ཚུལ་ག་རེ་རེད། ༨༣༥༨ ཀྱི་མཐོ་ཚད་ནི་ནིཕི་ཊི་ལ་གལ་ཆེན་པོ་ཡིན།  \n\n###",
+    "translation_answer2": "{\"value\": \"ནིཕི་ཊི\", \"start\": 50, \"end\": 55, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 48,
+        "end": 53,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Nothing much happening in Nucleus Software: Deepak Mohini",
+    "truth_annotations": [
+      {
+        "value": "Nucleus Software",
+        "start": 26,
+        "end": 42,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nucleus Software",
+        "start": 26,
+        "end": 42,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nནུ་ཀླི་ཡས་སོཕྟཝེར་ལ་དོན་དངོས་ཅི་ཡང་འབྱུང་མེད།: དིཔཀ་མོཧིནི  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Nucleus Software\", \"start\": 0, \"end\": 16, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nucleus Software",
+        "start": 26,
+        "end": 42,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Who shot down China bull? Regulator says hunt is on; Shanghai ends 6% down, slips 30% in 3 weeks; what experts say",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 14,
+        "end": 19,
+        "tag": "negative"
+      },
+      {
+        "value": "Shanghai",
+        "start": 53,
+        "end": 61,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China",
+        "start": 14,
+        "end": 19,
+        "tag": "neutral"
+      },
+      {
+        "value": "Regulator",
+        "start": 26,
+        "end": 35,
+        "tag": "neutral"
+      },
+      {
+        "value": "Shanghai",
+        "start": 53,
+        "end": 61,
+        "tag": "negative"
+      }
+    ],
+    "annotations": [
+      {
+        "value": "China",
+        "start": 14,
+        "end": 19,
+        "tag": "neutral"
+      },
+      {
+        "value": "Regulator",
+        "start": 26,
+        "end": 35,
+        "tag": "neutral"
+      },
+      {
+        "value": "Shanghai",
+        "start": 53,
+        "end": 61,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Sell Bank of India with target price of Rs 160: Prakash Gaba",
+    "truth_annotations": [
+      {
+        "value": "Bank of India",
+        "start": 5,
+        "end": 18,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Bank of India",
+        "start": 5,
+        "end": 18,
+        "tag": "negative"
+      },
+      {
+        "value": "Prakash Gaba",
+        "start": 48,
+        "end": 60,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "བྷང་ཀ་ཨོཕ་ཨིན་ཌི་ཡ་དེ་ རང་སྟོང་རི་ 160 ལ་འདེམས་སྟོན་བྱ་དགོས། པྲ་ཀཱཤ་ག་བ།",
+    "translation_answer2": "{\"value\": \"Bank of India\", \"start\": 5, \"end\": 18, \"tag\": \"negative\"}  \n{\"value\": \"Prakash Gaba\", \"start\": 45, \"end\": 57, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Bank of India",
+        "start": 5,
+        "end": 18,
+        "tag": "negative"
+      },
+      {
+        "value": "Prakash Gaba",
+        "start": 48,
+        "end": 60,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Bye-bye FY15; Sensex ends fiscal year at 27,957.49",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 14,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sensex",
+        "start": 14,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nབཀྲ་ཤིས་བདེ་ལེགས། FY15 ལ་ཞལ་བཀྲ་ཞིང་། ཉིན་མཇུག་ལ་Sensex དང་ལོ་དགོངས་ཀྱི་མཇུག་སྡོམ་རྩིས་ཐོག 27,957.49 རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Sensex\", \"start\": 20, \"end\": 26, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sensex",
+        "start": 14,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "JSW Energy to be included in Nifty Midcap 50 index",
+    "truth_annotations": [
+      {
+        "value": "JSW Energy",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Nifty Midcap",
+        "start": 29,
+        "end": 41,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "JSW Energy",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "Nifty Midcap 50",
+        "start": 29,
+        "end": 44,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nJSW Energy ནི་ Nifty Midcap 50 གྱི་ཚོགས་པ་ཁྲོད་དུ་འཇུག་པར་བྱེད་པ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"JSW Energy\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"Nifty Midcap 50\", \"start\": 15, \"end\": 30, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "JSW Energy",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "Nifty Midcap 50",
+        "start": 29,
+        "end": 44,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "SAT upholds Sebi order against Indira Securities",
+    "truth_annotations": [
+      {
+        "value": "Indira Securities",
+        "start": 31,
+        "end": 48,
+        "tag": "negative"
+      },
+      {
+        "value": "SAT",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 12,
+        "end": 16,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "SAT",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 12,
+        "end": 16,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indira Securities",
+        "start": 31,
+        "end": 48,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nསེ་ཨེ་ཊི་དང་སེ་བི་ཡི་ཆེད་དུ་ཨིན་ཌི་ར་སི་ཀྱུ་རི་ཊིས་ལ་གཏོང་བའི་བཀོད་རྒྱགས་ལ་དྲང་བདེན་གྱིས་རྒྱབ་སྐྱོར་བྱས་པའི་སྐོར་ལ་བཤད་པ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སེ་ཨེ་ཊི\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}  \n{\"value\": \"སེ་བི\", \"start\": 9, \"end\": 13, \"tag\": \"neutral\"}  \n{\"value\": \"ཨིན་ཌི་ར་སི་ཀྱུ་རི་ཊིས\", \"start\": 20, \"end\": 37, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "SAT",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 12,
+        "end": 16,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indira Securities",
+        "start": 31,
+        "end": 48,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Wockhardt surges 12% as HP drug controller revokes drug suspension",
+    "truth_annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "HP drug controller",
+        "start": 24,
+        "end": 42,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཝོཀྷརྡྟ་གློག་བརྙན་གྱི་ཐོན་རིམ་ལ་དཔྱད་བསྡུར་བྱས་པའི་སྐབས་སུ་ཨེཆ་པི་སྨན་དུས་ཡོངས་སུ་བཀག་སྟངས་ཡོངས་སུ་ཕྱིར་འཐེན་བྱས་པས་ཝོཀྷརྡྟ་གློག་བརྙན་གྱི་རིམས་ལ་ཆ་༡༢% འཕར་བ་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཝོཀྷརྡྟ\", \"start\": 0, \"end\": 7, \"tag\": \"positive\"}  \n{\"value\": \"ཨེཆ་པི་སྨན་དུས་ཡོངས་སུ་བཀག་སྟངས\", \"start\": 22, \"end\": 43, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "HP drug controller",
+        "start": 24,
+        "end": 42,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Calculus: Higher working capital weighs heavy on L&T",
+    "truth_annotations": [
+      {
+        "value": "L&T",
+        "start": 49,
+        "end": 52,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "L&T",
+        "start": 49,
+        "end": 52,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཀྲུང་གོའི་རྩིས་རིག་པ་: ལས་སྡེའི་འཕྲུལ་རྩལ་དང་འབྲེལ་བའི་ལས་འཆར་གྱི་དངུལ་ཆ་མང་པོ་ཞིག་གིས་L&T ལ་ཤུགས་རྐྱེན་ཆེན་པོ་བཀོད་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"L&T\", \"start\": 60, \"end\": 63, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "L&T",
+        "start": 49,
+        "end": 52,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Axis Bank, Infosys, Coal India among hot stock picks; banking sector to stand out: ET poll",
+    "truth_annotations": [
+      {
+        "value": "Axis Bank",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "Infosys",
+        "start": 11,
+        "end": 18,
+        "tag": "positive"
+      },
+      {
+        "value": "Coal India",
+        "start": 20,
+        "end": 30,
+        "tag": "positive"
+      },
+      {
+        "value": "banking sector",
+        "start": 54,
+        "end": 68,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Bank",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Infosys",
+        "start": 11,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "Coal India",
+        "start": 20,
+        "end": 30,
+        "tag": "neutral"
+      },
+      {
+        "value": "ET",
+        "start": 83,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཨེགསིས་བེངཀ།, ཨིནཕོ་སིས།, ཀོལ་ཨིན་ཌི་ཡ་སོགས་ནི་རྩ་འཕྲེང་གི་འདེམས་སྒྲུག་དམ་པ་ཡིན། བེངཀིང་སྡེ་ཚན་ནི་མཐོ་རིམ་དུ་གྱུར་ཡོང་།: ཨི་ཊི་གྱི་དྲི་བ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨེགསིས་བེངཀ།\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"ཨིནཕོ་སིས།\", \"start\": 12, \"end\": 20, \"tag\": \"neutral\"}  \n{\"value\": \"ཀོལ་ཨིན་ཌི་ཡ།\", \"start\": 22, \"end\": 33, \"tag\": \"neutral\"}  \n{\"value\": \"ཨི་ཊི།\", \"start\": 74, \"end\": 79, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Axis Bank",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Infosys",
+        "start": 11,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "Coal India",
+        "start": 20,
+        "end": 30,
+        "tag": "neutral"
+      },
+      {
+        "value": "ET",
+        "start": 83,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Aussie dollar drops on fall in retail sales, New Zealand dollar steady",
+    "truth_annotations": [
+      {
+        "value": "Aussie dollar",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "New Zealand dollar",
+        "start": 45,
+        "end": 63,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Aussie dollar",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "New Zealand dollar",
+        "start": 45,
+        "end": 63,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Aussie dollar",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "New Zealand dollar",
+        "start": 45,
+        "end": 63,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Comex gold prices inch lower in early noon trades",
+    "truth_annotations": [
+      {
+        "value": "Comex",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "ཀོམེགས་གཙང་སྐྱེས་གང་ཁ་ཚད་ཀྱི་རིན་ཐང་ཕྱི་ཉིན་སྔ་དྲོའི་ཚོད་ལྟར་ཡར་སོང་།",
+    "translation_answer2": "[]",
+    "annotations": []
+  },
+  {
+    "content": "Dynamatic Tech gains 20% in 2 days; Goldman, HDFC fund picking shares",
+    "truth_annotations": [
+      {
+        "value": "Dynamatic Tech",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      },
+      {
+        "value": "Goldman",
+        "start": 36,
+        "end": 43,
+        "tag": "neutral"
+      },
+      {
+        "value": "HDFC fund",
+        "start": 45,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Dynamatic Tech",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      },
+      {
+        "value": "Goldman",
+        "start": 36,
+        "end": 43,
+        "tag": "neutral"
+      },
+      {
+        "value": "HDFC",
+        "start": 45,
+        "end": 49,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nདེ་ནས་དུས་ཚོད་གཉིས་ནང་Dynamatic Tech གི་རིན་ཐང་༢༠% གོང་ཕྱིན་པ་དང་། Goldman དང་ HDFC ཡིས་ཤ་རྐོ་གསོག་འཇོག་བྱེད་པའི་རིགས་བཟུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Dynamatic Tech\", \"start\": 17, \"end\": 30, \"tag\": \"positive\"}  \n{\"value\": \"Goldman\", \"start\": 36, \"end\": 43, \"tag\": \"neutral\"}  \n{\"value\": \"HDFC\", \"start\": 45, \"end\": 49, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Dynamatic Tech",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      },
+      {
+        "value": "Goldman",
+        "start": 36,
+        "end": 43,
+        "tag": "neutral"
+      },
+      {
+        "value": "HDFC",
+        "start": 45,
+        "end": 49,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "I do not see too much of a downside for Infy: Sandeep Wagle",
+    "truth_annotations": [
+      {
+        "value": "Infy",
+        "start": 40,
+        "end": 44,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Infy",
+        "start": 40,
+        "end": 44,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sandeep Wagle",
+        "start": 46,
+        "end": 59,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nངས་ Infy ལ་དོན་ཚན་ཆེན་པོ་ཞིག་མཐོང་མེད།: སན་དིཔ་ཝཱག་ལེ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Infy\", \"start\": 9, \"end\": 13, \"tag\": \"neutral\"}  \n{\"value\": \"སན་དིཔ་ཝཱག་ལེ།\", \"start\": 15, \"end\": 28, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Infy",
+        "start": 40,
+        "end": 44,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sandeep Wagle",
+        "start": 46,
+        "end": 59,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "NMCE asks members dealing with NSEL defaulters to be alert",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 31,
+        "end": 35,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "NMCE",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 31,
+        "end": 35,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "NMCE གིས་ NSEL གི་ཉེས་མིང་ཅན་དང་འབྲེལ་བའི་ཚོང་པ་རྣམས་ལ་ཤེས་བཞིན་པ་ཡོད་པར་བྱེད་དགོས་པའི་བཀོད་སྟོན་སྤེལ་བ་ཡིན།\n\n###",
+    "translation_answer2": "{\"value\": \"NMCE\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}  \n{\"value\": \"NSEL\", \"start\": 11, \"end\": 15, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "NMCE",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 31,
+        "end": 35,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Sugar, food grains, eggs, medicines driving inflation: RBI",
+    "truth_annotations": [
+      {
+        "value": "Sugar",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      },
+      {
+        "value": "food grains",
+        "start": 7,
+        "end": 18,
+        "tag": "negative"
+      },
+      {
+        "value": "eggs",
+        "start": 20,
+        "end": 24,
+        "tag": "negative"
+      },
+      {
+        "value": "medicines",
+        "start": 26,
+        "end": 35,
+        "tag": "negative"
+      },
+      {
+        "value": "RBI",
+        "start": 55,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "RBI",
+        "start": 55,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nབཀྲ་ཤིས་ཀྱི་དངོས་པོ་དང་། ཟས་རིགས། སྒོང་ང། སྨན་པ་སོགས་ཀྱིས་དངུལ་མེད་པར་བཏང་འཕེལ་བཀོད་བསྒྲིགས། ཨར་བི་ཨའི་ཡིས་བཀོད་བསྒྲིགས།  \n\n**",
+    "translation_answer2": "**  \n```python\n{\"value\": \"ཨར་བི་ཨའི\", \"start\": 52, \"end\": 56, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "RBI",
+        "start": 55,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Pound extends gains into third day on better housing data",
+    "truth_annotations": [
+      {
+        "value": "Pound",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Pound",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Pound",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Southeast Asia stocks-fall after Paris attacks; Philippine shares near 3-month low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asia stocks",
+        "start": 0,
+        "end": 21,
+        "tag": "negative"
+      },
+      {
+        "value": "Philippine shares",
+        "start": 48,
+        "end": 65,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Southeast Asia stocks",
+        "start": 0,
+        "end": 21,
+        "tag": "negative"
+      },
+      {
+        "value": "Philippine shares",
+        "start": 48,
+        "end": 65,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nདབུས་ཨེ་ཤི་ཡ་རྒྱལ་ཁབ་ཀྱི་རྒྱུ་ནོར་གྱི་རིམས་པ་ལ་པ་རི་སི་ལ་གསིང་བཙན་བྱུང་བའི་རྗེས་སུ་ཕབ་སྟེ། ཕི་ལི་པིན་གྱི་རྒྱུ་ནོར་གྱི་རིམས་པ་ནི་ཟླ་གསུམ་གྱི་མཐོ་ཚད་དང་ཉེ་བར་སླེབས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"དབུས་ཨེ་ཤི་ཡ་རྒྱལ་ཁབ་ཀྱི་རྒྱུ་ནོར་གྱི་རིམས་པ\", \"start\": 0, \"end\": 28, \"tag\": \"negative\"}  \n{\"value\": \"ཕི་ལི་པིན་གྱི་རྒྱུ་ནོར་གྱི་རིམས་པ\", \"start\": 54, \"end\": 80, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Southeast Asia stocks",
+        "start": 0,
+        "end": 21,
+        "tag": "negative"
+      },
+      {
+        "value": "Philippine shares",
+        "start": 48,
+        "end": 65,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "United Spirits, MCX scrips to be shifted from Group A",
+    "truth_annotations": [
+      {
+        "value": "United Spirits",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      },
+      {
+        "value": "MCX",
+        "start": 16,
+        "end": 19,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "United Spirits",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "MCX",
+        "start": 16,
+        "end": 19,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཡུ་ནཱའི་ཊེཊ་སྤིརིཊས་དང་ཨེམ་སི་ཨེགས་ཀྱི་ཤུགས་པ་ནི་གྲོགས་Aལས་གཞན་དུ་སྤོར་བར་བྱ་རྒྱུའོ།\n\n**",
+    "translation_answer2": "**  \n[\n    {\"value\": \"ཡུ་ནཱའི་ཊེཊ་སྤིརིཊས།\", \"start\": 0, \"end\": 14, \"tag\": \"neutral\"},  \n    {\"value\": \"ཨེམ་སི་ཨེགས།\", \"start\": 16, \"end\": 19, \"tag\": \"neutral\"}\n]",
+    "annotations": [
+      {
+        "value": "United Spirits",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "MCX",
+        "start": 16,
+        "end": 19,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Polycom appoints Geoff Thomas as APAC President",
+    "truth_annotations": [
+      {
+        "value": "Polycom",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      },
+      {
+        "value": "APAC",
+        "start": 33,
+        "end": 37,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Polycom",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཔོ་ལི་ཀོམ་གྱིས་ཇེཕ་ཐོ་མས་ཨེ་པེཀ་ཀྱི་གཙོ་དཔོན་ལ་བསྐོ་བཞག་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"པོ་ལི་ཀོམ\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Polycom",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "iGate Q4 net income up 7.5% at $33.1 million",
+    "truth_annotations": [
+      {
+        "value": "iGate",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "iGate",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "iGate གིས་ Q4 འབྲུ་རྩིས་ 7.5% གྱིས་འཕར་ནས་ 33.1 མི་ལི་ཡཱན་ཨོ་ལར་སྦྱངས་པ་རེད།",
+    "translation_answer2": "{\"value\": \"iGate\", \"start\": 0, \"end\": 4, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "iGate",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Jet Airways closes Rs 2,069-cr deal with Etihad; stock rallies over 3%",
+    "truth_annotations": [
+      {
+        "value": "Jet Airways",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Etihad",
+        "start": 41,
+        "end": 47,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Jet Airways",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Etihad",
+        "start": 41,
+        "end": 47,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཇེཊ་ཨེ་ཝེ་ཡས་དང་ཨི་ཐི་ཡཌ་གཉིས་ཀྱི་བར་ལ་ཨི་ཡུ་ཨེ་ཌི་ཨར་ ༢༠༦༩ ཀྲོ་ར་གྱི་ཉོ་ཚོང་བྱས་པ་དང་། ཤ་རེག་གི་རིམ་ལ་སྤྱི་ཚེས་ ༣% ལྷག་པར་འཕར་བ་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཇེཊ་ཨེ་ཝེ་ཡས\", \"start\": 0, \"end\": 10, \"tag\": \"positive\"}  \n{\"value\": \"ཨི་ཐི་ཡཌ\", \"start\": 26, \"end\": 32, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Jet Airways",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Etihad",
+        "start": 41,
+        "end": 47,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Takata shares sink by a quarter, Mitsubishi says reconsidering inflators",
+    "truth_annotations": [
+      {
+        "value": "Takata shares",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitsubishi",
+        "start": 33,
+        "end": 43,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Takata",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitsubishi",
+        "start": 33,
+        "end": 43,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཏ་ཀ་ཏ་ཡི་ཤེས་རྟོགས་ཀྱི་རིན་པ་ཆུ་ཚད་ཀྱིས་ཆུ་ཚད་གཅིག་ཀྱིས་བསྐྱུར་བ་དང་། མི་ཏ་སུ་བི་ཤི་ཡིས་ཕྱིར་བསྐྱོད་སྤྱི་ཁྱབ་གསར་བ་ལ་བསམ་བློ་གཏོང་བར་བཤད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Takata\", \"start\": 0, \"end\": 6, \"tag\": \"negative\"}  \n{\"value\": \"Mitsubishi\", \"start\": 36, \"end\": 46, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Takata",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitsubishi",
+        "start": 33,
+        "end": 43,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sebi studies its own regulatory impact: U K Sinha",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nསེ་བི་ཡིས་རང་གི་ཁྲིམས་སྤྱོད་ཀྱི་ཤུགས་རྐྱེན་ལ་ཞིབ་འཇུག་བྱས་པ། ཡུ་ཀེ་སིན་ཧ་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སེ་བི\", \"start\": 0, \"end\": 3, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Chinese markets bounce back over 6% on attempts to stem rout; state intervention to weigh",
+    "truth_annotations": [
+      {
+        "value": "Chinese markets",
+        "start": 0,
+        "end": 15,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Chinese markets",
+        "start": 0,
+        "end": 15,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nརྒྱ་ནག་གི་ཚོང་ཁང་དག་ཕྱིར་ལོག་སྟེ་ཆ་ཤས་བརྒྱ་ཆ་6ལྷག་ཙམ་འཕར་བ་དང་། རྒྱལ་ཁབ་ཀྱི་ཞབས་འདེགས་ཀྱིས་དམིགས་བསལ་གྱི་གནས་སྟངས་ལ་ཤུགས་རྐྱེན་སྣོན་པར་བྱེད་པ།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"རྒྱ་ནག་གི་ཚོང་ཁང་དག\", \"start\": 0, \"end\": 18, \"tag\": \"positive\"}]",
+    "annotations": [
+      {
+        "value": "Chinese markets",
+        "start": 0,
+        "end": 15,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "HUL set to surge as parent announces voluntary open offer",
+    "truth_annotations": [
+      {
+        "value": "HUL",
+        "start": 0,
+        "end": 3,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "HUL",
+        "start": 0,
+        "end": 3,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nཧཱུལ་གྱི་ཐོན་སྐྱེད་ཡར་འཕེལ་གྱི་ཆེད་དུ་མ་ཕྱི་སྤྱི་ཚོགས་ཀྱིས་རང་བཞིན་གྱི་ཉེ་འཁོར་ཞུགས་ཀྱི་སློབ་སྟོན་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"HUL\", \"start\": 0, \"end\": 3, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "HUL",
+        "start": 0,
+        "end": 3,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Zinc futures fall 0.17 per cent on low spot demand, weak global cues",
+    "truth_annotations": [
+      {
+        "value": "Zinc",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Zinc futures",
+        "start": 0,
+        "end": 12,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "ཚིག་གི་དོན་ནི་གཟའ་མིག་དངུལ་རྩིས་ཀྱི་འགྲོ་གྲོན་གྱི་དོན་ལ་ཉེས་པ་མེད་པར་དམིགས་བསལ་གྱི་ཁ་བསྟོད་དང་། གཞན་པའི་འགྲོ་གྲོན་གྱི་དོན་ལ་ཉེས་པ་མེད་པར་དམིགས་བསལ་གྱི་ཁ་བསྟོད་དང་།",
+    "translation_answer2": "{\"value\": \"Zinc futures\", \"start\": 0, \"end\": 11, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Zinc futures",
+        "start": 0,
+        "end": 12,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sell Kingfisher Airlines and United Spirits: Ashwani Gujral",
+    "truth_annotations": [
+      {
+        "value": "Kingfisher Airlines",
+        "start": 5,
+        "end": 24,
+        "tag": "negative"
+      },
+      {
+        "value": "United Spirits",
+        "start": 29,
+        "end": 43,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Kingfisher Airlines",
+        "start": 5,
+        "end": 24,
+        "tag": "negative"
+      },
+      {
+        "value": "United Spirits",
+        "start": 29,
+        "end": 43,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "**  \nཀིང་ཕིཤར་ཨེར་ལ་ཡིནས་དང་ཡུ་ན་ཡིཊ་ཊི་སྤིརིཊས་ཀྱི་ཤོག་སྒོར་བཙོང་དགོས་པར་ཨཤྭ་ནི་གུཇྜལ་གྱིས་བཀོད་པ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"ཀིང་ཕིཤར་ཨེར་ལ་ཡིནས\", \"start\": 0, \"end\": 15, \"tag\": \"negative\"}, {\"value\": \"ཡུ་ན་ཡིཊ་ཊི་སྤིརིཊས\", \"start\": 20, \"end\": 37, \"tag\": \"negative\"}]",
+    "annotations": [
+      {
+        "value": "Kingfisher Airlines",
+        "start": 5,
+        "end": 24,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Kharif sowing expected to increase due to good monsoons: Sharad Pawar, Agriculture Minister",
+    "truth_annotations": [
+      {
+        "value": "Kharif",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Kharif",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sharad Pawar",
+        "start": 57,
+        "end": 69,
+        "tag": "neutral"
+      },
+      {
+        "value": "Agriculture Minister",
+        "start": 71,
+        "end": 91,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཁ་རི་ཧྥི་ཀྲུང་བས་གསར་བསྐྲུན་གྱི་དུས་ཚོད་ལ་གནམ་གཤིས་ཡག་པོ་ཡོད་པའི་དབང་གིས་ཡར་རྒྱས་བྱུང་ངེས་པར་བཤད་པ། ཤ་རད་པ་ཝར་དང་སོ་ནམ་སྤྱི་ཁྱབ་ཀྱིས་བཤད་པ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཁ་རི་ཧྥི་ཀྲུང་\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"ཤ་རད་པ་ཝར་\", \"start\": 49, \"end\": 60, \"tag\": \"neutral\"}  \n{\"value\": \"སོ་ནམ་སྤྱི་ཁྱབ་\", \"start\": 62, \"end\": 75, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Kharif",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sharad Pawar",
+        "start": 57,
+        "end": 69,
+        "tag": "neutral"
+      },
+      {
+        "value": "Agriculture Minister",
+        "start": 71,
+        "end": 91,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Gitanjali Gems Q3 PAT Rs 101.6 cr, up 147% YoY",
+    "truth_annotations": [
+      {
+        "value": "Gitanjali Gems",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Gitanjali Gems",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nགི་ཏཱ་རྒན་ལི་རྫས་བཟང་གི་རེ་འོས་ཚན་གསུམ་པའི་དོན་དངོས་བརྟན་བསྐྱེད་བརྩི་སྤྲོད་ནི་རྩེམ་ཕར་སི་ཨོ་ཨེས་ ༡༠༡.༦ ཀྲོ་བ་ཡིན་ལ། དེ་ནི་ལོ་འཁོར་གཅིག་གི་སྔོན་ལ་བསྟུན་ནས་ ༡༤༧% སྤྱིར་བཏང་དང་འགྱུར་བ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"གི་ཏཱ་རྒན་ལི་རྫས་བཟང\", \"start\": 0, \"end\": 19, \"tag\": \"positive\"}]",
+    "annotations": [
+      {
+        "value": "Gitanjali Gems",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "State-run Cos REC, PFC, PGC etc expect rates to fall, may offer short tenure bonds",
+    "truth_annotations": [
+      {
+        "value": "REC",
+        "start": 14,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "PFC",
+        "start": 19,
+        "end": 22,
+        "tag": "neutral"
+      },
+      {
+        "value": "PGC",
+        "start": 24,
+        "end": 27,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "REC",
+        "start": 14,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "PFC",
+        "start": 19,
+        "end": 22,
+        "tag": "neutral"
+      },
+      {
+        "value": "PGC",
+        "start": 24,
+        "end": 27,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nརྒྱལ་ཁབ་སྤྱི་ཁྱབ་གཅིག་གིས་སྐྱེལ་འདྲེན་བྱེད་པའི་སྡོད་གཞི་གླ་ཚོང་གི་སྡོད་གཞི་ཆུང་ཆུང་ REC, PFC, PGC སོགས་ལ་རླངས་འཁོར་གྱི་ཚོད་ཐོག་གི་རིན་ཐང་ཡར་འགྲིབ་སྲིད་པ་དང་། དུས་ཐོག་ཐུང་ཐུང་གི་འབྲེལ་བ་ཡིན་པའི་དངུལ་ཕྱུག་གི་འབྲེལ་བ་སྤྲོད་སྲིད་པའི་རེ་བ་ཡོད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"REC\", \"start\": 45, \"end\": 48, \"tag\": \"neutral\"}  \n{\"value\": \"PFC\", \"start\": 50, \"end\": 53, \"tag\": \"neutral\"}  \n{\"value\": \"PGC\", \"start\": 55, \"end\": 58, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "REC",
+        "start": 14,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "PFC",
+        "start": 19,
+        "end": 22,
+        "tag": "neutral"
+      },
+      {
+        "value": "PGC",
+        "start": 24,
+        "end": 27,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Augmenting product portfolio to help Kabra Extrusiontechnik gain market share",
+    "truth_annotations": [
+      {
+        "value": "Kabra Extrusiontechnik",
+        "start": 37,
+        "end": 59,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Kabra Extrusiontechnik",
+        "start": 37,
+        "end": 59,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nཐོན་སྐྱེད་སྤྱི་ཁྱབ་ཀྱི་ཁྱབ་ཁོངས་བསྐྱར་གསོ་བྱེད་པ་དང་བསྟུན་ནས་ཀ་བྲ་ཨེགས་ཊྲུ་ཤན་ཊེཀ་ནིག་གི་ཚོང་རྫས་ཀྱི་ཁྱབ་ཁོངས་སྔར་ལས་ལྷག་པར་དར་སྤེལ་བྱེད་པ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཀ་བྲ་ཨེགས་ཊྲུ་ཤན་ཊེཀ་ནིག\", \"start\": 34, \"end\": 54, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Kabra Extrusiontechnik",
+        "start": 37,
+        "end": 59,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Anant Raj Industries will face resistance around 110-120 levels: Rohit Shinde",
+    "truth_annotations": [
+      {
+        "value": "Anant Raj Industries",
+        "start": 0,
+        "end": 20,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Anant Raj Industries",
+        "start": 0,
+        "end": 20,
+        "tag": "neutral"
+      },
+      {
+        "value": "Rohit Shinde",
+        "start": 65,
+        "end": 77,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཨ་ནནྟ་རཱཇ་ཨིན་ཌས་ཊི་རིས་གིས་དྲ་བའི་མཐོ་ཚད་༡༡༠-༡༢༠ ཡི་ཁོངས་སུ་གཟིངས་སྐྱོང་བྱེད་པར་འགྱུར་ཞེས་རོ་ཧིཊ་ཤིན་ཌེས་གསུངས།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཨ་ནནྟ་རཱཇ་ཨིན་ཌས་ཊི་རིས\", \"start\": 0, \"end\": 19, \"tag\": \"neutral\"}  \n{\"value\": \"རོ་ཧིཊ་ཤིན་ཌེ\", \"start\": 53, \"end\": 64, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Anant Raj Industries",
+        "start": 0,
+        "end": 20,
+        "tag": "neutral"
+      },
+      {
+        "value": "Rohit Shinde",
+        "start": 65,
+        "end": 77,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Parsvnath Developers seeks shareholders nod to raise up to Rs 1,500 crore",
+    "truth_annotations": [
+      {
+        "value": "Parsvnath Developers",
+        "start": 0,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Parsvnath Developers",
+        "start": 0,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "Parsvnath Developers",
+        "start": 0,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Oil slips below $105 on oversupply, weak demand",
+    "truth_annotations": [
+      {
+        "value": "Oil",
+        "start": 0,
+        "end": 3,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Oil",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཉིང་ཁུ་ལ་རིན་ཐང་༡༠༥ དོལ་རྒྱག་འོག་ཏུ་འགྲོ་བ་དང་། སྤྱི་ཚོང་གི་དགོས་མཁོ་དམའ་བའི་རྐྱེན་གྱིས་ཉིང་ཁུ་ལ་རིན་ཐང་ཇེ་དམའ་དུ་སོང་།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"ཉིང་ཁུ\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}]",
+    "annotations": [
+      {
+        "value": "Oil",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "You have to be stock specific in current market situations: Sandeep Wagle",
+    "truth_annotations": [
+      {
+        "value": "market",
+        "start": 41,
+        "end": 47,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sandeep Wagle",
+        "start": 60,
+        "end": 73,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཁྱེད་ཀྱིས་ད་ལྟའི་ཚོད་ལྟའི་གཞི་རྟེན་གྱི་གཞི་རྟེན་ལ་ཤ་གང་དང་ཤ་གང་གི་རྣམ་པ་ལ་གཞི་རྟེན་བྱེད་དགོས། སན་དིཔ་ཝག་ལེ།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"སན་དིཔ་ཝག་ལེ\", \"start\": 56, \"end\": 68, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sandeep Wagle",
+        "start": 60,
+        "end": 73,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Yuan rises slightly as lacklustre trade data offsets strong midpoint",
+    "truth_annotations": [
+      {
+        "value": "Yuan",
+        "start": 0,
+        "end": 4,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Yuan",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཡུན་དངུལ་ཉུང་ཙམ་མཐོ་རུ་སོང་བ་དང་ཚོང་སྡེ་ཚད་གཞི་དྲག་པོའི་ཁྲོད་དུ་ཚོང་ལས་གནས་སྟངས་ཉམས་པ་ཡིན།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཡུན་དངུལ\", \"start\": 0, \"end\": 5, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Yuan",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Shareholders of Cover-All Technologies consider a possible merger with Majesco, US subsidiary of Mastek",
+    "truth_annotations": [
+      {
+        "value": "Cover-All Technologies",
+        "start": 16,
+        "end": 38,
+        "tag": "neutral"
+      },
+      {
+        "value": "Majesco",
+        "start": 71,
+        "end": 78,
+        "tag": "neutral"
+      },
+      {
+        "value": "Mastek",
+        "start": 97,
+        "end": 103,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Cover-All Technologies",
+        "start": 16,
+        "end": 38,
+        "tag": "neutral"
+      },
+      {
+        "value": "Majesco",
+        "start": 71,
+        "end": 78,
+        "tag": "neutral"
+      },
+      {
+        "value": "Mastek",
+        "start": 97,
+        "end": 103,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཀྲང་གོའི་ཤེས་རིག་གི་ཐོན་སྐྱེད་པ་ཚོས་མཉམ་སྦྲེལ་གྱི་གཞི་རྩའི་ཐད་ཀྱི་བསམ་བློ་བཀོད་པ་རེད། མཉམ་སྦྲེལ་གྱི་ཐད་ཀྱི་བསམ་བློ་བཀོད་པ་རེད། མཉམ་སྦྲེལ་གྱི་ཐད་ཀྱི་བསམ་བློ་བཀོད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n[{\"value\": \"Cover-All Technologies\", \"start\": 13, \"end\": 36, \"tag\": \"neutral\"}, {\"value\": \"Majesco\", \"start\": 69, \"end\": 76, \"tag\": \"neutral\"}, {\"value\": \"Mastek\", \"start\": 94, \"end\": 100, \"tag\": \"neutral\"}]",
+    "annotations": [
+      {
+        "value": "Cover-All Technologies",
+        "start": 16,
+        "end": 38,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Play auto theme with four-wheeler stocks; CV space looks good: Amit Khurana",
+    "truth_annotations": [
+      {
+        "value": "four-wheeler stocks",
+        "start": 21,
+        "end": 40,
+        "tag": "positive"
+      },
+      {
+        "value": "CV space",
+        "start": 42,
+        "end": 50,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Play auto",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "CV space",
+        "start": 42,
+        "end": 50,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nབཀོལ་སྤྱོད་རྒྱུན་ལྡན་གྱི་དཔེ་དུམ་དང་བཅས་པའི་རླངས་འཁོར་སྐད་ཡིག་གི་རྩ་འཕྲིན་བཟོ་སྐྲུན་དང་། ཆེད་ལས་སྤྱི་ཚོགས་སྤྱི་ཚོགས་ལ་བཀོལ་སྤྱོད་བྱེད་པ། རླངས་འཁོར་སྤྱི་ཚོགས་ལ་བཀོལ་སྤྱོད་བྱེད་པ་ལ་བསམ་ཚུལ་བཟང་པོ་ཡོད་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"Play auto\", \"start\": 0, \"end\": 9, \"tag\": \"neutral\"}  \n{\"value\": \"CV space\", \"start\": 37, \"end\": 45, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Play auto",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "CV space",
+        "start": 42,
+        "end": 50,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "BP lifts Britain's FTSE towards 4-1/2 month high",
+    "truth_annotations": [
+      {
+        "value": "BP",
+        "start": 0,
+        "end": 2,
+        "tag": "positive"
+      },
+      {
+        "value": "Britain's FTSE",
+        "start": 9,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "BP",
+        "start": 0,
+        "end": 2,
+        "tag": "positive"
+      },
+      {
+        "value": "Britain's FTSE",
+        "start": 9,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nBPགིས་བྲི་ཊན་གྱི་FTSEཡི་ཚད་ལ་ཕྱི་ཟླ་4-1/2ཀྱི་མཐོ་ཚད་ལ་འགྲོ་བར་སྐུལ་སླད་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"BP\", \"start\": 0, \"end\": 2, \"tag\": \"positive\"}  \n{\"value\": \"Britain's FTSE\", \"start\": 13, \"end\": 27, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "BP",
+        "start": 0,
+        "end": 2,
+        "tag": "positive"
+      },
+      {
+        "value": "Britain's FTSE",
+        "start": 9,
+        "end": 23,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "JPMorgan shuffles CFO, other execs",
+    "truth_annotations": [
+      {
+        "value": "JPMorgan",
+        "start": 0,
+        "end": 8,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "JPMorgan",
+        "start": 0,
+        "end": 8,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nཇེ་པི་མོར་གན་གྱིས་ཁྲིམས་མཐུན་དང་གཞན་པའི་བདག་པོ་མང་པོ་བརྗེ་སྒྱུར་བྱས་པ་རེད།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"ཇེ་པི་མོར་གན\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "JPMorgan",
+        "start": 0,
+        "end": 8,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Arun Jaitley hopes passage of amended insurance bill in Winter Session; Max India surges 10%",
+    "truth_annotations": [
+      {
+        "value": "Max India",
+        "start": 72,
+        "end": 81,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Max India",
+        "start": 72,
+        "end": 81,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "**  \nཨ་རུན་ཇེཏ་ལེ་ཡིས་དགུན་ཀ་ཚོགས་ཐོག་གི་བཅའ་ཡིག་གསར་བཅོས་ཀྱི་ཁྲིམས་འགྲོལ་ལ་རེ་བ་བཅུག་པ་དང་། མེགས་ཨིན་ཌི་ཡ་ཡི་ཐོན་རིམ་བརྒྱ་ཆ་བཅུ་འཕར་བ་བྱུང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"མེགས་ཨིན་ཌི་ཡ\", \"start\": 67, \"end\": 76, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Max India",
+        "start": 72,
+        "end": 81,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Crude oil futures up on overseas cues",
+    "truth_annotations": [
+      {
+        "value": "Crude oil futures",
+        "start": 0,
+        "end": 17,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Crude oil futures",
+        "start": 0,
+        "end": 17,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "**  \nརླུང་འཁོར་གྱི་འགྱུར་ལྡན་དངུལ་རྩིས་ཀྱི་གོང་ཚད་ལ་གཞིགས་ནས་ཕྱི་རྒྱལ་གྱི་སྟོན་པའི་རྟགས་མཚན་གྱིས་མཐོ་རུ་སོང་།  \n\n**",
+    "translation_answer2": "**  \n{\"value\": \"རླུང་འཁོར་གྱི་འགྱུར་ལྡན་དངུལ་རྩིས\", \"start\": 0, \"end\": 17, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Crude oil futures",
+        "start": 0,
+        "end": 17,
+        "tag": "neutral"
+      }
+    ]
+  }
+]

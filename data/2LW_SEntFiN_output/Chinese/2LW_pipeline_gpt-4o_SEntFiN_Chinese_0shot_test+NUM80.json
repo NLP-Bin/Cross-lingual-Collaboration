@@ -1,0 +1,2615 @@
+[
+  {
+    "content": "Castex clarification lifts Amtek Auto shares, ends 6% higher",
+    "truth_annotations": [
+      {
+        "value": "Amtek Auto",
+        "start": 27,
+        "end": 37,
+        "tag": "positive"
+      },
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 26,
+        "end": 36,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "卡斯特克澄清提振阿姆泰克汽车股价，收盘上涨6%",
+    "translation_answer2": "```json\n{\"value\": \"卡斯特克\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}\n{\"value\": \"阿姆泰克汽车\", \"start\": 7, \"end\": 13, \"tag\": \"positive\"}\n```",
+    "annotations": [
+      {
+        "value": "Castex",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      },
+      {
+        "value": "Amtek Auto",
+        "start": 26,
+        "end": 36,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Won't get a 2008-like opportunity where everything was so cheap: Nilesh Shah, Axis Capital",
+    "truth_annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 89,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "不会再有像2008年那样的一次机会，当时一切都这么便宜：Nilesh Shah，Axis Capital",
+    "translation_answer2": "{\"value\": \"Axis Capital\", \"start\": 36, \"end\": 47, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Axis Capital",
+        "start": 78,
+        "end": 89,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Why tech stocks are trending again",
+    "truth_annotations": [
+      {
+        "value": "tech stocks",
+        "start": 4,
+        "end": 15,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "为什么科技股再次流行",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Friendly buying' lifts FCS Soft on acquisition buzz",
+    "truth_annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 23,
+        "end": 31,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "FCS Soft",
+        "start": 21,
+        "end": 29,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "友好的买盘推动了FCS Soft因收购传闻而上涨。",
+    "translation_answer2": "{\"value\": \"FCS Soft\", \"start\": 10, \"end\": 18, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "FCS Soft",
+        "start": 21,
+        "end": 29,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "China, Hong Kong stocks rise, banks surge on local govt debt scheme",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      },
+      {
+        "value": "Hong Kong stocks",
+        "start": 7,
+        "end": 23,
+        "tag": "positive"
+      },
+      {
+        "value": "banks",
+        "start": 30,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Hong Kong",
+        "start": 7,
+        "end": 16,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "中国，香港股市上涨，银行因地方政府债务方案而飙升",
+    "translation_answer2": "{\"value\": \"香港\", \"start\": 3, \"end\": 5, \"tag\": \"neutral\"}\n{\"value\": \"银行\", \"start\": 14, \"end\": 16, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Hong Kong",
+        "start": 7,
+        "end": 16,
+        "tag": "neutral"
+      },
+      {
+        "value": "banks",
+        "start": 26,
+        "end": 31,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Rs 15.26 crore dividend cheque from REPCO Bank",
+    "truth_annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 36,
+        "end": 46,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "REPCO Bank",
+        "start": 42,
+        "end": 52,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "从REPCO银行获得1.526亿卢比的股息支票",
+    "translation_answer2": "```json\n{\"value\": \"REPCO银行\", \"start\": 3, \"end\": 12, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "REPCO Bank",
+        "start": 42,
+        "end": 52,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Legal tussle forces Sebi to re-think decision on self-regulation",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 20,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "法律纠纷迫使Sebi重新考虑自我监管决策。",
+    "translation_answer2": "{\"value\": \"Sebi\", \"start\": 8, \"end\": 12, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 29,
+        "end": 33,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Sensex falls in-line with emerging markets; feels selling pressure",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "**  \n恒生指数与新兴市场同步下跌；感受到抛售压力。\n\n**",
+    "translation_answer2": "**  \n```json\n[]\n```",
+    "annotations": []
+  },
+  {
+    "content": "Southeast Asian markets rise on Greek debt deal; Thai benchmark recovers two-week low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asian markets",
+        "start": 0,
+        "end": 23,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "东南亚市场因希腊债务协议上涨；泰国基准指数从两周低点回升",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Indo Count top bet in textile sector: Vinay Khattar, Edelweiss Financial",
+    "truth_annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 53,
+        "end": 72,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 54,
+        "end": 73,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印度计数是在纺织行业的最佳选择：Vinay Khattar，Edelweiss Financial",
+    "translation_answer2": "{\"value\": \"印度计数\", \"start\": 0, \"end\": 4, \"tag\": \"positive\"}\n{\"value\": \"Edelweiss Financial\", \"start\": 21, \"end\": 37, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Indo Count",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Edelweiss Financial",
+        "start": 54,
+        "end": 73,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Franklin Templeton buys record Rs 16,000-crore government securities in a day",
+    "truth_annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 17,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "富兰克林邓普顿在一天内购买了创纪录的1.6万亿卢比政府证券",
+    "translation_answer2": "```json\n{\"value\": \"富兰克林邓普顿\", \"start\": 0, \"end\": 7, \"tag\": \"positive\"}\n```",
+    "annotations": [
+      {
+        "value": "Franklin Templeton",
+        "start": 0,
+        "end": 17,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "IndiGo set to launch Rs 2,500-crore initial public offering",
+    "truth_annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印地戈计划推出25亿卢比的首次公开募股",
+    "translation_answer2": "{\"value\": \"印地戈\", \"start\": 0, \"end\": 2, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "IndiGo",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Q4 earnings: RIL's profit jumps up 32 pc on rising refining income",
+    "truth_annotations": [
+      {
+        "value": "RIL",
+        "start": 13,
+        "end": 16,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "RIL",
+        "start": 14,
+        "end": 17,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "第四季度财报：因炼油收入上升，RIL的利润上涨32%。",
+    "translation_answer2": "{\"value\": \"RIL\", \"start\": 20, \"end\": 23, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "RIL",
+        "start": 14,
+        "end": 17,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "High Court appointed committee can seek information on NSEL hit investors:  Bombay HC",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 55,
+        "end": 59,
+        "tag": "neutral"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 76,
+        "end": 85,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 57,
+        "end": 61,
+        "tag": "negative"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 80,
+        "end": 89,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "高等法院任命的委员会可以要求获取有关NSEL受影响投资者的信息：孟买高等法院",
+    "translation_answer2": "```json\n{\"value\": \"高等法院\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}\n{\"value\": \"NSEL\", \"start\": 21, \"end\": 25, \"tag\": \"negative\"}\n{\"value\": \"孟买高等法院\", \"start\": 34, \"end\": 41, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "High Court",
+        "start": 0,
+        "end": 10,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 57,
+        "end": 61,
+        "tag": "negative"
+      },
+      {
+        "value": "Bombay HC",
+        "start": 80,
+        "end": 89,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "GSFC Q3 profit dips 26% on sluggish sales",
+    "truth_annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "GSFC 第三季度利润因销售疲软下降26%",
+    "translation_answer2": "```json\n{\"value\": \"GSFC\", \"start\": 0, \"end\": 4, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "GSFC",
+        "start": 0,
+        "end": 4,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "L&T Finance case: Factorial says will cooperate with Sebi",
+    "truth_annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 53,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Factorial",
+        "start": 18,
+        "end": 27,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 54,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "L&T金融案例：Factorial表示将配合Sebi",
+    "translation_answer2": "```json\n{\"value\": \"L&T金融\", \"start\": 0, \"end\": 6, \"tag\": \"neutral\"}\n{\"value\": \"Factorial\", \"start\": 10, \"end\": 18, \"tag\": \"neutral\"}\n{\"value\": \"Sebi\", \"start\": 23, \"end\": 27, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "L&T Finance",
+        "start": 0,
+        "end": 11,
+        "tag": "neutral"
+      },
+      {
+        "value": "Factorial",
+        "start": 18,
+        "end": 27,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 54,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Goa Carbon Ltd posts Rs 670.89 lakh net loss in Q1",
+    "truth_annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "Goa Carbon Ltd第一季度净亏损670.89万卢比",
+    "translation_answer2": "{\"value\": \"Goa Carbon Ltd\", \"start\": 0, \"end\": 13, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Goa Carbon Ltd",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Wockhardt story is really intriguing: Deven Choksey",
+    "truth_annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "沃克哈特的故事真的很吸引人：德文·乔克西",
+    "translation_answer2": "{\"value\": \"沃克哈特\", \"start\": 0, \"end\": 3, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Sebi ask cos to follow std format for auditor certificates",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印度证券交易委员会要求公司遵循审核员证书的标准格式",
+    "translation_answer2": "{\"value\": \"印度证券交易委员会\", \"start\": 0, \"end\": 10, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sebi",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Nestle falls as government sues company over Maggi row; seeks Rs 640 crore in damages",
+    "truth_annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "雀巢因政府就美极事件起诉公司而下跌；寻求赔偿6.4亿卢比",
+    "translation_answer2": "```json\n{\"value\": \"雀巢\", \"start\": 0, \"end\": 2, \"tag\": \"negative\"}\n{\"value\": \"政府\", \"start\": 4, \"end\": 6, \"tag\": \"neutral\"}\n{\"value\": \"美极\", \"start\": 9, \"end\": 11, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "Nestle",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "government",
+        "start": 14,
+        "end": 24,
+        "tag": "neutral"
+      },
+      {
+        "value": "Maggi",
+        "start": 44,
+        "end": 49,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "China shares recoup losses on power producers, carmakers",
+    "truth_annotations": [
+      {
+        "value": "China shares",
+        "start": 0,
+        "end": 12,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "power producers",
+        "start": 28,
+        "end": 43,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "中国股市在电力生产公司和汽车制造商的推动下恢复了损失",
+    "translation_answer2": "```json\n{\"value\": \"电力生产公司\", \"start\": 8, \"end\": 16, \"tag\": \"neutral\"}\n{\"value\": \"汽车制造商\", \"start\": 18, \"end\": 24, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "power producers",
+        "start": 28,
+        "end": 43,
+        "tag": "neutral"
+      },
+      {
+        "value": "carmakers",
+        "start": 45,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Spike in oil prices is a big risk and makes the foreign flows a lot more nervous: IV Subramaniam, Quantum AMC",
+    "truth_annotations": [
+      {
+        "value": "oil",
+        "start": 9,
+        "end": 12,
+        "tag": "negative"
+      },
+      {
+        "value": "Quantum AMC",
+        "start": 98,
+        "end": 109,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "IV Subramaniam",
+        "start": 65,
+        "end": 78,
+        "tag": "neutral"
+      },
+      {
+        "value": "Quantum AMC",
+        "start": 80,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "石油价格的飙升是一个很大的风险，使外资流动更加紧张：IV Subramaniam，Quantum AMC",
+    "translation_answer2": "```json\n{\"value\": \"IV Subramaniam\", \"start\": 30, \"end\": 42, \"tag\": \"neutral\"}\n{\"value\": \"Quantum AMC\", \"start\": 44, \"end\": 54, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "IV Subramaniam",
+        "start": 65,
+        "end": 78,
+        "tag": "neutral"
+      },
+      {
+        "value": "Quantum AMC",
+        "start": 80,
+        "end": 90,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Suzlon Energy reports biggest quarterly loss",
+    "truth_annotations": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "苏司兰能源报告季度最大亏损",
+    "translation_answer2": "{\"value\": \"苏司兰能源\", \"start\": 0, \"end\": 5, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Suzlon Energy",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Green bonds value may double to $100 billion in 2015",
+    "truth_annotations": [
+      {
+        "value": "Green bonds",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "绿色债券的价值在2015年可能翻倍至1000亿美元",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Eros is planning to delist its Indian subsidiary? Stock surges",
+    "truth_annotations": [
+      {
+        "value": "Eros",
+        "start": 0,
+        "end": 4,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Eros",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Eros正计划退市其印度子公司？股价上涨",
+    "translation_answer2": "{\"value\": \"Eros\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Eros",
+        "start": 0,
+        "end": 4,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Dollar firm as Fed minutes likely to highlight policy divergence with peers",
+    "truth_annotations": [
+      {
+        "value": "Dollar",
+        "start": 0,
+        "end": 6,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "美元坚挺，美联储会议纪要可能凸显与其他央行政策的分歧。",
+    "translation_answer2": "{\"value\": \"美联储\", \"start\": 5, \"end\": 8, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Fed",
+        "start": 13,
+        "end": 16,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Gujarat Apollo locked in upper circuit on delisting buzz, up 20%",
+    "truth_annotations": [
+      {
+        "value": "Gujarat Apollo",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Gujarat Apollo",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "古吉拉特阿波罗因退市传闻涨停，上涨20%",
+    "translation_answer2": "```json\n{\"value\": \"古吉拉特阿波罗\", \"start\": 0, \"end\": 7, \"tag\": \"positive\"}\n```",
+    "annotations": [
+      {
+        "value": "Gujarat Apollo",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Several small caps trading at eye-popping valuations",
+    "truth_annotations": [
+      {
+        "value": "small caps",
+        "start": 8,
+        "end": 18,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "一些小盘股以令人咋舌的估值交易",
+    "translation_answer2": "该句子中没有提到明确的公司、组织、产品、品牌等实体，因此没有需要进行情感分析的实体。",
+    "annotations": []
+  },
+  {
+    "content": "Favour private sector banks in the banking space: Deven Choksy",
+    "truth_annotations": [
+      {
+        "value": "private sector banks",
+        "start": 7,
+        "end": 27,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "private sector banks",
+        "start": 7,
+        "end": 28,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "在银行领域倾向于私营部门银行：Deven Choksy",
+    "translation_answer2": "",
+    "annotations": [
+      {
+        "value": "private sector banks",
+        "start": 7,
+        "end": 28,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Expect a 3-4% dip in Bank Nifty before fresh levels breakout: Mitesh Thacker",
+    "truth_annotations": [
+      {
+        "value": "Bank Nifty",
+        "start": 21,
+        "end": 31,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Bank Nifty",
+        "start": 20,
+        "end": 30,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "预期银行Nifty指数在新水平突破前会下跌3-4%：Mitesh Thacker",
+    "translation_answer2": "{\"value\": \"银行Nifty指数\", \"start\": 2, \"end\": 12, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Bank Nifty",
+        "start": 20,
+        "end": 30,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Bharat Forge Q3 Net jumps two-fold to Rs 196.34 crore",
+    "truth_annotations": [
+      {
+        "value": "Bharat Forge",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "孟买方面（曼谷时间1月21日）Bharat Forge公司的净收入在第三季度翻了一番，达到19.634亿卢比，优于Equinomics公司分析师的预期。",
+    "translation_answer2": "{\"value\": \"Bharat Forge\", \"start\": 18, \"end\": 30, \"tag\": \"positive\"}\n{\"value\": \"Equinomics\", \"start\": 74, \"end\": 84, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Bharat Forge",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Credit Suisse trims Nifty earnings estimates",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 20,
+        "end": 25,
+        "tag": "negative"
+      },
+      {
+        "value": "Credit Suisse",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Credit Suisse",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "瑞信下调Nifty盈利预测",
+    "translation_answer2": "```json\n{\"value\": \"瑞信\", \"start\": 0, \"end\": 2, \"tag\": \"negative\"}\n{\"value\": \"Nifty\", \"start\": 4, \"end\": 9, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Credit Suisse",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "Nifty",
+        "start": 25,
+        "end": 30,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Bankers seek clarity on tax treatment of new Additional Tier-I bonds under Basel-III",
+    "truth_annotations": [
+      {
+        "value": "Tier-I bonds",
+        "start": 56,
+        "end": 68,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Basel-III",
+        "start": 70,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "银行家们寻求关于在巴塞尔-III下对新的额外一级资本债券税务处理的明确性。",
+    "translation_answer2": "{\"value\": \"巴塞尔-III\", \"start\": 17, \"end\": 25, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Basel-III",
+        "start": 70,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Short-covering ahead of Q3 results lifts Maruti",
+    "truth_annotations": [
+      {
+        "value": "Maruti",
+        "start": 41,
+        "end": 47,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Maruti",
+        "start": 41,
+        "end": 47,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "第三季度业绩发布前的空头回补提升了马鲁蒂",
+    "translation_answer2": "{\"value\": \"马鲁蒂\", \"start\": 18, \"end\": 21, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Maruti",
+        "start": 41,
+        "end": 47,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Goldman Sachs prices 30-year, $974 million bond in Taiwan: Sources",
+    "truth_annotations": [
+      {
+        "value": "Goldman Sachs",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Goldman Sachs",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "高盛公司在台湾定价30年，价值9.74亿美元的债券：消息来源",
+    "translation_answer2": "{\"value\": \"高盛公司\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Goldman Sachs",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Pre-market: Nifty seen opening flat; Kotak Mahindra eyed",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 12,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "Kotak Mahindra",
+        "start": 37,
+        "end": 51,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 13,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "Kotak Mahindra",
+        "start": 43,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "市场前：Nifty预计平开；关注Kotak Mahindra",
+    "translation_answer2": "```json\n{\"value\": \"Nifty\", \"start\": 5, \"end\": 10, \"tag\": \"neutral\"}\n{\"value\": \"Kotak Mahindra\", \"start\": 13, \"end\": 26, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 13,
+        "end": 18,
+        "tag": "neutral"
+      },
+      {
+        "value": "Kotak Mahindra",
+        "start": 43,
+        "end": 58,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Tara Jewels Q2 net dips by 29 pc to Rs 11.03 crore",
+    "truth_annotations": [
+      {
+        "value": "Tara Jewels",
+        "start": 0,
+        "end": 11,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Tara Jewels",
+        "start": 0,
+        "end": 11,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "塔拉珠宝第二季度净利润下降29%至1.103亿卢比",
+    "translation_answer2": "```json\n{\"value\": \"塔拉珠宝\", \"start\": 0, \"end\": 4, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "Tara Jewels",
+        "start": 0,
+        "end": 11,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "ECB QE: What markets expect and what it might mean",
+    "truth_annotations": [
+      {
+        "value": "ECB",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "欧洲央行量化宽松：市场预期与可能的影响",
+    "translation_answer2": "There are no identifiable entities that are companies or organizations in the translated text.",
+    "annotations": []
+  },
+  {
+    "content": "GMR Group plans to sell stake in Karur Vysya Bank",
+    "truth_annotations": [
+      {
+        "value": "Karur Vysya Bank",
+        "start": 33,
+        "end": 49,
+        "tag": "negative"
+      },
+      {
+        "value": "GMR Group",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "GMR Group",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Karur Vysya Bank",
+        "start": 33,
+        "end": 49,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "GMR集团计划出售在卡鲁尔维拉雅银行的股份",
+    "translation_answer2": "```json\n{\"value\": \"GMR集团\", \"start\": 0, \"end\": 7, \"tag\": \"neutral\"}\n{\"value\": \"卡鲁尔维拉雅银行\", \"start\": 13, \"end\": 23, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "GMR Group",
+        "start": 0,
+        "end": 9,
+        "tag": "neutral"
+      },
+      {
+        "value": "Karur Vysya Bank",
+        "start": 33,
+        "end": 49,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Unseasonal rains, hailstorms affect rural demand for gold in wedding season",
+    "truth_annotations": [
+      {
+        "value": "gold",
+        "start": 53,
+        "end": 57,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "非季节性降雨和冰雹影响了婚礼季节对黄金的农村需求。",
+    "translation_answer2": "There are still no identifiable companies, organizations, products, or brands in the translated text to perform an entity-level sentiment analysis.",
+    "annotations": []
+  },
+  {
+    "content": "Defence-related stocks rally on Indo-US nuclear deal",
+    "truth_annotations": [
+      {
+        "value": "Defence-related stocks",
+        "start": 0,
+        "end": 22,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "国防相关股票因印美核协议而上涨",
+    "translation_answer2": "```json\n[]\n```",
+    "annotations": []
+  },
+  {
+    "content": "EXL Services Q1 net up 48.69 pc at $8.36 mn",
+    "truth_annotations": [
+      {
+        "value": "EXL Services",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "EXL Services",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "EXL服务公司第一季度净利润增长48.69%，达到836万美元。",
+    "translation_answer2": "```json\n{\"value\": \"EXL服务公司\", \"start\": 0, \"end\": 8, \"tag\": \"positive\"}\n```",
+    "annotations": [
+      {
+        "value": "EXL Services",
+        "start": 0,
+        "end": 12,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Nifty's worst New Year start since 1996; what experts are betting on",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "Nifty自1996年以来最糟糕的新年开局；专家们正在押注什么",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Minimum 25% public holding should also apply to public sector companies: Sebi",
+    "truth_annotations": [
+      {
+        "value": "Sebi",
+        "start": 73,
+        "end": 77,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sebi",
+        "start": 74,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "最低公共持股25%的要求也应适用于公共部门公司：证券交易委员会",
+    "translation_answer2": "```json\n{\"value\": \"证券交易委员会\", \"start\": 21, \"end\": 29, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "public sector companies",
+        "start": 49,
+        "end": 72,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 74,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Rouble's woes spread to other ex-Soviet currencies",
+    "truth_annotations": [
+      {
+        "value": "Rouble",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "卢布的困境蔓延到其他前苏联国家的货币",
+    "translation_answer2": "No entities related to companies or organizations are present in the provided text.",
+    "annotations": []
+  },
+  {
+    "content": "8200 holds the key for Nifty; Sensex likely to climb to 27,375: Mitesh Thacker",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 30,
+        "end": 36,
+        "tag": "positive"
+      },
+      {
+        "value": "Nifty",
+        "start": 23,
+        "end": 28,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nifty",
+        "start": 20,
+        "end": 25,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sensex",
+        "start": 28,
+        "end": 34,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "8200对Nifty至关重要；Sensex可能升至27,375：Mitesh Thacker",
+    "translation_answer2": "{\"value\": \"Nifty\", \"start\": 5, \"end\": 10, \"tag\": \"neutral\"}  \n{\"value\": \"Sensex\", \"start\": 14, \"end\": 20, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Nifty",
+        "start": 20,
+        "end": 25,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sensex",
+        "start": 28,
+        "end": 34,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "IT stocks to benefit in the short term: Mitesh Thacker",
+    "truth_annotations": [
+      {
+        "value": "IT stocks",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "信息技术板块短期内受益：Mitesh Thacker",
+    "translation_answer2": "No companies or organizations were identified in the translated text.",
+    "annotations": []
+  },
+  {
+    "content": "Fed taper pulls down Sensex by 149 pts to two-month low",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 21,
+        "end": 27,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Fed",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sensex",
+        "start": 22,
+        "end": 28,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "美联储缩减导致Sensex下跌149点，跌至两个月低点",
+    "translation_answer2": "{\"value\": \"美联储\", \"start\": 0, \"end\": 3, \"tag\": \"neutral\"}\n{\"value\": \"Sensex\", \"start\": 10, \"end\": 16, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Fed",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sensex",
+        "start": 22,
+        "end": 28,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Earnings leading rally for IT stocks: Harendra Kumar",
+    "truth_annotations": [
+      {
+        "value": "IT stocks",
+        "start": 27,
+        "end": 36,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "科技股的上涨由收益推动：哈伦德拉·库玛尔",
+    "translation_answer2": "```json\n[]\n```",
+    "annotations": []
+  },
+  {
+    "content": "5546 key level for Nifty today: Ashwani Gujral",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 19,
+        "end": 24,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "今天Nifty的关键水平是5546：Ashwani Gujral",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "TA Associates eyes Motilal Oswal's 12 per cent stake in AU Financiers",
+    "truth_annotations": [
+      {
+        "value": "TA Associates",
+        "start": 0,
+        "end": 13,
+        "tag": "neutral"
+      },
+      {
+        "value": "Motilal Oswal",
+        "start": 19,
+        "end": 32,
+        "tag": "neutral"
+      },
+      {
+        "value": "AU Financiers",
+        "start": 56,
+        "end": 69,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "TA Associates",
+        "start": 0,
+        "end": 12,
+        "tag": "neutral"
+      },
+      {
+        "value": "Motilal Oswal",
+        "start": 18,
+        "end": 30,
+        "tag": "neutral"
+      },
+      {
+        "value": "AU Financiers",
+        "start": 55,
+        "end": 69,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "TA Associates 盯上了 Motilal Oswal 在 AU Financiers 中的 12% 股份",
+    "translation_answer2": "{\"value\": \"TA Associates\", \"start\": 0, \"end\": 12, \"tag\": \"neutral\"}\n{\"value\": \"Motilal Oswal\", \"start\": 16, \"end\": 28, \"tag\": \"neutral\"}\n{\"value\": \"AU Financiers\", \"start\": 31, \"end\": 43, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "TA Associates",
+        "start": 0,
+        "end": 12,
+        "tag": "neutral"
+      },
+      {
+        "value": "Motilal Oswal",
+        "start": 18,
+        "end": 30,
+        "tag": "neutral"
+      },
+      {
+        "value": "AU Financiers",
+        "start": 55,
+        "end": 69,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Court issues fresh summons to Sahara, its chief Subrata Roy",
+    "truth_annotations": [
+      {
+        "value": "Sahara",
+        "start": 30,
+        "end": 36,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sahara",
+        "start": 29,
+        "end": 35,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "法院向莎哈拉及其首席执行官苏布拉塔·罗伊发出新的传票。",
+    "translation_answer2": "```json\n{\"value\": \"莎哈拉\", \"start\": 5, \"end\": 8, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Sahara",
+        "start": 29,
+        "end": 35,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Rice bran oil set to smoke out olive oil",
+    "truth_annotations": [
+      {
+        "value": "Rice bran oil",
+        "start": 0,
+        "end": 13,
+        "tag": "positive"
+      },
+      {
+        "value": "olive oil",
+        "start": 31,
+        "end": 40,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "米糠油将取代橄榄油",
+    "translation_answer2": "目前没有识别出与公司、组织、产品或品牌相关的实体。",
+    "annotations": []
+  },
+  {
+    "content": "NASDAQ can rally another 50% in next 2 years; Indian IT stocks stand to gain?",
+    "truth_annotations": [
+      {
+        "value": "NASDAQ",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Indian IT stocks",
+        "start": 46,
+        "end": 62,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "NASDAQ",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "纳斯达克在未来两年可能再上涨50%；印度IT股票能否受益？",
+    "translation_answer2": "```json\n{\"value\": \"纳斯达克\", \"start\": 0, \"end\": 3, \"tag\": \"positive\"}\n{\"value\": \"印度IT股票\", \"start\": 14, \"end\": 20, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "NASDAQ",
+        "start": 0,
+        "end": 6,
+        "tag": "positive"
+      },
+      {
+        "value": "Indian IT stocks",
+        "start": 41,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Moser Baer Q2 standalone loss at Rs 131.75 cr",
+    "truth_annotations": [
+      {
+        "value": "Moser Baer",
+        "start": 0,
+        "end": 10,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Moser Baer",
+        "start": 0,
+        "end": 10,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "莫瑟·贝尔第二季度单独亏损为13.175亿卢比",
+    "translation_answer2": "```json\n{\"value\": \"莫瑟·贝尔\", \"start\": 0, \"end\": 4, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "Moser Baer",
+        "start": 0,
+        "end": 10,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "QE fears resurface, markets crash; heres what experts are betting on",
+    "truth_annotations": [
+      {
+        "value": "QE",
+        "start": 0,
+        "end": 2,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "量化宽松的担忧重新浮现，市场崩盘；专家们预测的内容",
+    "translation_answer2": "The translated text does not contain any specific organizations, companies, products, or brands to analyze for sentiment. Therefore, there are no entities to report.",
+    "annotations": []
+  },
+  {
+    "content": "Warren Buffett cuts Tesco stake to below 3 per cent",
+    "truth_annotations": [
+      {
+        "value": "Tesco",
+        "start": 20,
+        "end": 25,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Tesco",
+        "start": 21,
+        "end": 26,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "沃伦·巴菲特将乐购的股份削减至3%以下",
+    "translation_answer2": "{\"value\": \"沃伦·巴菲特\", \"start\": 0, \"end\": 5, \"tag\": \"neutral\"}\n{\"value\": \"乐购\", \"start\": 10, \"end\": 12, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Warren Buffett",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "Tesco",
+        "start": 21,
+        "end": 26,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Whats trending in F&Os? 8,358 level crucial for Nifty",
+    "truth_annotations": [
+      {
+        "value": "Nifty",
+        "start": 48,
+        "end": 53,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "当前F&O的趋势是什么？8,358点对于Nifty至关重要",
+    "translation_answer2": "No entities recognized related to companies or organizations in the given text.",
+    "annotations": []
+  },
+  {
+    "content": "Nothing much happening in Nucleus Software: Deepak Mohini",
+    "truth_annotations": [
+      {
+        "value": "Nucleus Software",
+        "start": 26,
+        "end": 42,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Nucleus Software",
+        "start": 22,
+        "end": 38,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "没有太多关于Nucleus Software的动态：Deepak Mohini",
+    "translation_answer2": "```json\n{\"value\": \"Nucleus Software\", \"start\": 8, \"end\": 24, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Nucleus Software",
+        "start": 22,
+        "end": 38,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Who shot down China bull? Regulator says hunt is on; Shanghai ends 6% down, slips 30% in 3 weeks; what experts say",
+    "truth_annotations": [
+      {
+        "value": "China",
+        "start": 14,
+        "end": 19,
+        "tag": "negative"
+      },
+      {
+        "value": "Shanghai",
+        "start": 53,
+        "end": 61,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "China bull",
+        "start": 15,
+        "end": 25,
+        "tag": "negative"
+      },
+      {
+        "value": "Regulator",
+        "start": 28,
+        "end": 37,
+        "tag": "neutral"
+      },
+      {
+        "value": "Shanghai",
+        "start": 62,
+        "end": 70,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "谁击倒了中国牛市？监管机构称正在追踪；上海市下跌6%，在3周内下跌30%；专家怎么说",
+    "translation_answer2": "```json\n{\"value\": \"中国牛市\", \"start\": 4, \"end\": 9, \"tag\": \"negative\"}\n{\"value\": \"监管机构\", \"start\": 11, \"end\": 16, \"tag\": \"neutral\"}\n{\"value\": \"上海市\", \"start\": 23, \"end\": 26, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "China bull",
+        "start": 15,
+        "end": 25,
+        "tag": "negative"
+      },
+      {
+        "value": "Regulator",
+        "start": 28,
+        "end": 37,
+        "tag": "neutral"
+      },
+      {
+        "value": "Shanghai",
+        "start": 62,
+        "end": 70,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Sell Bank of India with target price of Rs 160: Prakash Gaba",
+    "truth_annotations": [
+      {
+        "value": "Bank of India",
+        "start": 5,
+        "end": 18,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Bank of India",
+        "start": 5,
+        "end": 17,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "卖出印度银行，目标价为160卢比：普拉卡什·加巴",
+    "translation_answer2": "```json\n{\"value\": \"印度银行\", \"start\": 2, \"end\": 7, \"tag\": \"negative\"}\n{\"value\": \"普拉卡什·加巴\", \"start\": 14, \"end\": 21, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Bank of India",
+        "start": 5,
+        "end": 17,
+        "tag": "negative"
+      },
+      {
+        "value": "Prakash Gaba",
+        "start": 41,
+        "end": 53,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Bye-bye FY15; Sensex ends fiscal year at 27,957.49",
+    "truth_annotations": [
+      {
+        "value": "Sensex",
+        "start": 14,
+        "end": 20,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Sensex",
+        "start": 13,
+        "end": 19,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "再见 FY15; 股市指数年度收盘于 27,957.49",
+    "translation_answer2": "{\"value\": \"股市指数\", \"start\": 4, \"end\": 8, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Sensex",
+        "start": 13,
+        "end": 19,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "JSW Energy to be included in Nifty Midcap 50 index",
+    "truth_annotations": [
+      {
+        "value": "JSW Energy",
+        "start": 0,
+        "end": 10,
+        "tag": "positive"
+      },
+      {
+        "value": "Nifty Midcap",
+        "start": 29,
+        "end": 41,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "JSW能源被纳入Nifty中型50指数",
+    "translation_answer2": "{\n  \"value\": \"JSW能源\",\n  \"start\": 0,\n  \"end\": 7,\n  \"tag\": \"positive\"\n}\n{\n  \"value\": \"Nifty中型50\",\n  \"start\": 10,\n  \"end\": 19,\n  \"tag\": \"neutral\"\n}",
+    "annotations": []
+  },
+  {
+    "content": "SAT upholds Sebi order against Indira Securities",
+    "truth_annotations": [
+      {
+        "value": "Indira Securities",
+        "start": 31,
+        "end": 48,
+        "tag": "negative"
+      },
+      {
+        "value": "SAT",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 12,
+        "end": 16,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "SAT",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 13,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indira Securities",
+        "start": 36,
+        "end": 53,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "SAT维持了印度证券交易委员会对因迪拉证券的裁决",
+    "translation_answer2": "```json\n{\"value\": \"SAT\", \"start\": 0, \"end\": 3, \"tag\": \"neutral\"}\n{\"value\": \"印度证券交易委员会\", \"start\": 6, \"end\": 15, \"tag\": \"neutral\"}\n{\"value\": \"因迪拉证券\", \"start\": 18, \"end\": 23, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "SAT",
+        "start": 0,
+        "end": 3,
+        "tag": "neutral"
+      },
+      {
+        "value": "Sebi",
+        "start": 13,
+        "end": 17,
+        "tag": "neutral"
+      },
+      {
+        "value": "Indira Securities",
+        "start": 36,
+        "end": 53,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Wockhardt surges 12% as HP drug controller revokes drug suspension",
+    "truth_annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "HP drug controller",
+        "start": 21,
+        "end": 39,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "沃克哈特上涨12%，因HP药品监管机构撤销药品暂停令",
+    "translation_answer2": "```json\n{\"value\": \"沃克哈特\", \"start\": 0, \"end\": 3, \"tag\": \"positive\"}\n{\"value\": \"HP药品监管机构\", \"start\": 9, \"end\": 18, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Wockhardt",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "HP drug controller",
+        "start": 21,
+        "end": 39,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Calculus: Higher working capital weighs heavy on L&T",
+    "truth_annotations": [
+      {
+        "value": "L&T",
+        "start": 49,
+        "end": 52,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "L&T",
+        "start": 49,
+        "end": 52,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "微积分：更高的营运资金使L&T沉重不堪",
+    "translation_answer2": "{\"value\": \"L&T\", \"start\": 18, \"end\": 21, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "L&T",
+        "start": 49,
+        "end": 52,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Axis Bank, Infosys, Coal India among hot stock picks; banking sector to stand out: ET poll",
+    "truth_annotations": [
+      {
+        "value": "Axis Bank",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "Infosys",
+        "start": 11,
+        "end": 18,
+        "tag": "positive"
+      },
+      {
+        "value": "Coal India",
+        "start": 20,
+        "end": 30,
+        "tag": "positive"
+      },
+      {
+        "value": "banking sector",
+        "start": 54,
+        "end": 68,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Axis Bank",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "Infosys",
+        "start": 11,
+        "end": 18,
+        "tag": "positive"
+      },
+      {
+        "value": "Coal India",
+        "start": 20,
+        "end": 30,
+        "tag": "positive"
+      },
+      {
+        "value": "ET",
+        "start": 76,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "印度轴银行、印孚瑟斯、印度煤炭成为热门股票选择；银行业将脱颖而出：ET调查",
+    "translation_answer2": "{\"value\": \"印度轴银行\", \"start\": 0, \"end\": 5, \"tag\": \"positive\"}  \n{\"value\": \"印孚瑟斯\", \"start\": 7, \"end\": 11, \"tag\": \"positive\"}  \n{\"value\": \"印度煤炭\", \"start\": 13, \"end\": 17, \"tag\": \"positive\"}  \n{\"value\": \"ET\", \"start\": 28, \"end\": 30, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Axis Bank",
+        "start": 0,
+        "end": 9,
+        "tag": "positive"
+      },
+      {
+        "value": "Infosys",
+        "start": 11,
+        "end": 18,
+        "tag": "positive"
+      },
+      {
+        "value": "Coal India",
+        "start": 20,
+        "end": 30,
+        "tag": "positive"
+      },
+      {
+        "value": "ET",
+        "start": 76,
+        "end": 78,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Aussie dollar drops on fall in retail sales, New Zealand dollar steady",
+    "truth_annotations": [
+      {
+        "value": "Aussie dollar",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "New Zealand dollar",
+        "start": 45,
+        "end": 63,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "澳元因零售额下降而下跌，纽元保持稳定",
+    "translation_answer2": "The translated text does not contain any identifiable companies, organizations, products, or brands to analyze for sentiment.",
+    "annotations": []
+  },
+  {
+    "content": "Comex gold prices inch lower in early noon trades",
+    "truth_annotations": [
+      {
+        "value": "Comex",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "纽约商品交易所黄金价格在午盘交易中小幅下跌。",
+    "translation_answer2": "{\"value\": \"纽约商品交易所\", \"start\": 0, \"end\": 8, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Comex",
+        "start": 0,
+        "end": 5,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Dynamatic Tech gains 20% in 2 days; Goldman, HDFC fund picking shares",
+    "truth_annotations": [
+      {
+        "value": "Dynamatic Tech",
+        "start": 0,
+        "end": 14,
+        "tag": "positive"
+      },
+      {
+        "value": "Goldman",
+        "start": 36,
+        "end": 43,
+        "tag": "neutral"
+      },
+      {
+        "value": "HDFC fund",
+        "start": 45,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Dynamatic Tech",
+        "start": 0,
+        "end": 13,
+        "tag": "positive"
+      },
+      {
+        "value": "Goldman",
+        "start": 39,
+        "end": 46,
+        "tag": "neutral"
+      },
+      {
+        "value": "HDFC",
+        "start": 48,
+        "end": 52,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "Dynamatic Tech在2天内上涨20%；高盛和HDFC基金正在买入股票",
+    "translation_answer2": "{\"value\": \"Dynamatic Tech\", \"start\": 0, \"end\": 13, \"tag\": \"positive\"}\n{\"value\": \"高盛\", \"start\": 21, \"end\": 23, \"tag\": \"neutral\"}\n{\"value\": \"HDFC基金\", \"start\": 24, \"end\": 29, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Dynamatic Tech",
+        "start": 0,
+        "end": 13,
+        "tag": "positive"
+      },
+      {
+        "value": "Goldman",
+        "start": 39,
+        "end": 46,
+        "tag": "neutral"
+      },
+      {
+        "value": "HDFC fund",
+        "start": 48,
+        "end": 57,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "I do not see too much of a downside for Infy: Sandeep Wagle",
+    "truth_annotations": [
+      {
+        "value": "Infy",
+        "start": 40,
+        "end": 44,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Infy",
+        "start": 31,
+        "end": 35,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "我认为对于Infy来说，没有太多的下行风险：Sandeep Wagle",
+    "translation_answer2": "{\"value\": \"Infy\", \"start\": 8, \"end\": 12, \"tag\": \"positive\"}",
+    "annotations": [
+      {
+        "value": "Infy",
+        "start": 31,
+        "end": 35,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "NMCE asks members dealing with NSEL defaulters to be alert",
+    "truth_annotations": [
+      {
+        "value": "NSEL",
+        "start": 31,
+        "end": 35,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "全国多商品交易所 (NMCE) 要求与国家现货市场 (NSEL) 债务违约者打交道的会员保持警惕。",
+    "translation_answer2": "```json\n{\"value\": \"全国多商品交易所\", \"start\": 0, \"end\": 8, \"tag\": \"neutral\"}\n{\"value\": \"国家现货市场\", \"start\": 17, \"end\": 24, \"tag\": \"negative\"}\n```",
+    "annotations": [
+      {
+        "value": "NMCE",
+        "start": 0,
+        "end": 4,
+        "tag": "neutral"
+      },
+      {
+        "value": "NSEL",
+        "start": 35,
+        "end": 39,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "Sugar, food grains, eggs, medicines driving inflation: RBI",
+    "truth_annotations": [
+      {
+        "value": "Sugar",
+        "start": 0,
+        "end": 5,
+        "tag": "negative"
+      },
+      {
+        "value": "food grains",
+        "start": 7,
+        "end": 18,
+        "tag": "negative"
+      },
+      {
+        "value": "eggs",
+        "start": 20,
+        "end": 24,
+        "tag": "negative"
+      },
+      {
+        "value": "medicines",
+        "start": 26,
+        "end": 35,
+        "tag": "negative"
+      },
+      {
+        "value": "RBI",
+        "start": 55,
+        "end": 58,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "RBI",
+        "start": 52,
+        "end": 55,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "糖、粮食、鸡蛋、药品推高通胀：印度储备银行",
+    "translation_answer2": "{\"value\": \"印度储备银行\", \"start\": 16, \"end\": 22, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "RBI",
+        "start": 52,
+        "end": 55,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Pound extends gains into third day on better housing data",
+    "truth_annotations": [
+      {
+        "value": "Pound",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [],
+    "translation_content": "英镑在住房数据改善的情况下连续第三天上涨",
+    "translation_answer2": "",
+    "annotations": []
+  },
+  {
+    "content": "Southeast Asia stocks-fall after Paris attacks; Philippine shares near 3-month low",
+    "truth_annotations": [
+      {
+        "value": "Southeast Asia stocks",
+        "start": 0,
+        "end": 21,
+        "tag": "negative"
+      },
+      {
+        "value": "Philippine shares",
+        "start": 48,
+        "end": 65,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Paris",
+        "start": 35,
+        "end": 40,
+        "tag": "neutral"
+      },
+      {
+        "value": "Philippine",
+        "start": 47,
+        "end": 57,
+        "tag": "negative"
+      }
+    ],
+    "translation_content": "东南亚股市在巴黎袭击后下跌；菲律宾股市接近3个月低点",
+    "translation_answer2": "{\"value\": \"巴黎\", \"start\": 10, \"end\": 12, \"tag\": \"neutral\"}\n{\"value\": \"菲律宾\", \"start\": 16, \"end\": 19, \"tag\": \"negative\"}",
+    "annotations": [
+      {
+        "value": "Paris",
+        "start": 35,
+        "end": 40,
+        "tag": "neutral"
+      },
+      {
+        "value": "Philippine",
+        "start": 47,
+        "end": 57,
+        "tag": "negative"
+      }
+    ]
+  },
+  {
+    "content": "United Spirits, MCX scrips to be shifted from Group A",
+    "truth_annotations": [
+      {
+        "value": "United Spirits",
+        "start": 0,
+        "end": 14,
+        "tag": "negative"
+      },
+      {
+        "value": "MCX",
+        "start": 16,
+        "end": 19,
+        "tag": "negative"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "United Spirits",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "MCX",
+        "start": 16,
+        "end": 19,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "联合酒业，MCX股票将从A组转移",
+    "translation_answer2": "{\"value\": \"联合酒业\", \"start\": 0, \"end\": 4, \"tag\": \"neutral\"}\n{\"value\": \"MCX\", \"start\": 5, \"end\": 8, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "United Spirits",
+        "start": 0,
+        "end": 14,
+        "tag": "neutral"
+      },
+      {
+        "value": "MCX",
+        "start": 16,
+        "end": 19,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Polycom appoints Geoff Thomas as APAC President",
+    "truth_annotations": [
+      {
+        "value": "Polycom",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      },
+      {
+        "value": "APAC",
+        "start": 33,
+        "end": 37,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Polycom",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "保利通任命杰夫·托马斯为亚太区总裁。",
+    "translation_answer2": "{\"value\": \"保利通\", \"start\": 0, \"end\": 3, \"tag\": \"neutral\"}",
+    "annotations": [
+      {
+        "value": "Polycom",
+        "start": 0,
+        "end": 7,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "iGate Q4 net income up 7.5% at $33.1 million",
+    "truth_annotations": [
+      {
+        "value": "iGate",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "iGate",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ],
+    "translation_content": "iGate第四季度净收入增长7.5%，达到3310万美元",
+    "translation_answer2": "```json\n{\"value\": \"iGate\", \"start\": 0, \"end\": 5, \"tag\": \"positive\"}\n```",
+    "annotations": [
+      {
+        "value": "iGate",
+        "start": 0,
+        "end": 5,
+        "tag": "positive"
+      }
+    ]
+  },
+  {
+    "content": "Jet Airways closes Rs 2,069-cr deal with Etihad; stock rallies over 3%",
+    "truth_annotations": [
+      {
+        "value": "Jet Airways",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Etihad",
+        "start": 41,
+        "end": 47,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Jet Airways",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Etihad",
+        "start": 35,
+        "end": 41,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "捷特航空与阿提哈德达成206.9亿卢比交易；股票上涨超过3％。",
+    "translation_answer2": "```json\n{\"value\": \"捷特航空\", \"start\": 0, \"end\": 4, \"tag\": \"positive\"}\n{\"value\": \"阿提哈德\", \"start\": 6, \"end\": 10, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Jet Airways",
+        "start": 0,
+        "end": 11,
+        "tag": "positive"
+      },
+      {
+        "value": "Etihad",
+        "start": 32,
+        "end": 38,
+        "tag": "neutral"
+      }
+    ]
+  },
+  {
+    "content": "Takata shares sink by a quarter, Mitsubishi says reconsidering inflators",
+    "truth_annotations": [
+      {
+        "value": "Takata shares",
+        "start": 0,
+        "end": 13,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitsubishi",
+        "start": 33,
+        "end": 43,
+        "tag": "neutral"
+      }
+    ],
+    "annotations_answer1": [
+      {
+        "value": "Takata",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitsubishi",
+        "start": 27,
+        "end": 37,
+        "tag": "neutral"
+      }
+    ],
+    "translation_content": "高田公司股价下跌四分之一，三菱表示重新考虑充气机",
+    "translation_answer2": "```json\n{\"value\": \"高田公司\", \"start\": 0, \"end\": 4, \"tag\": \"negative\"}\n{\"value\": \"三菱\", \"start\": 14, \"end\": 16, \"tag\": \"neutral\"}\n{\"value\": \"充气机\", \"start\": 20, \"end\": 23, \"tag\": \"neutral\"}\n```",
+    "annotations": [
+      {
+        "value": "Takata",
+        "start": 0,
+        "end": 6,
+        "tag": "negative"
+      },
+      {
+        "value": "Mitsubishi",
+        "start": 27,
+        "end": 37,
+        "tag": "neutral"
+      },
+      {
+        "value": "inflators",
+        "start": 45,
+        "end": 54,
+        "tag": "neutral"
+      }
+    ]
+  }
+]
